@@ -1,0 +1,6295 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0122,
+          52.2297
+        ]
+      },
+      "properties": {
+        "place_id": "warsaw",
+        "name": "Warsaw",
+        "place_type": "city",
+        "year": 1933,
+        "jewish_population": 352000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0122,
+          52.2297
+        ]
+      },
+      "properties": {
+        "place_id": "warsaw",
+        "name": "Warsaw",
+        "place_type": "city",
+        "year": 1935,
+        "jewish_population": 360000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0122,
+          52.2297
+        ]
+      },
+      "properties": {
+        "place_id": "warsaw",
+        "name": "Warsaw",
+        "place_type": "city",
+        "year": 1937,
+        "jewish_population": 370000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0122,
+          52.2297
+        ]
+      },
+      "properties": {
+        "place_id": "warsaw",
+        "name": "Warsaw",
+        "place_type": "city",
+        "year": 1938,
+        "jewish_population": 375000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0122,
+          52.2297
+        ]
+      },
+      "properties": {
+        "place_id": "warsaw",
+        "name": "Warsaw",
+        "place_type": "city",
+        "year": 1939,
+        "jewish_population": 380000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0122,
+          52.2297
+        ]
+      },
+      "properties": {
+        "place_id": "warsaw",
+        "name": "Warsaw",
+        "place_type": "city",
+        "year": 1940,
+        "jewish_population": 380000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0122,
+          52.2297
+        ]
+      },
+      "properties": {
+        "place_id": "warsaw",
+        "name": "Warsaw",
+        "place_type": "city",
+        "year": 1941,
+        "jewish_population": 450000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0122,
+          52.2297
+        ]
+      },
+      "properties": {
+        "place_id": "warsaw",
+        "name": "Warsaw",
+        "place_type": "city",
+        "year": 1942,
+        "jewish_population": 70000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0122,
+          52.2297
+        ]
+      },
+      "properties": {
+        "place_id": "warsaw",
+        "name": "Warsaw",
+        "place_type": "city",
+        "year": 1943,
+        "jewish_population": 5000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.456,
+          51.7592
+        ]
+      },
+      "properties": {
+        "place_id": "lodz",
+        "name": "Łódź",
+        "place_type": "city",
+        "year": 1933,
+        "jewish_population": 202000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.456,
+          51.7592
+        ]
+      },
+      "properties": {
+        "place_id": "lodz",
+        "name": "Łódź",
+        "place_type": "city",
+        "year": 1935,
+        "jewish_population": 210000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.456,
+          51.7592
+        ]
+      },
+      "properties": {
+        "place_id": "lodz",
+        "name": "Łódź",
+        "place_type": "city",
+        "year": 1937,
+        "jewish_population": 220000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.456,
+          51.7592
+        ]
+      },
+      "properties": {
+        "place_id": "lodz",
+        "name": "Łódź",
+        "place_type": "city",
+        "year": 1938,
+        "jewish_population": 225000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.456,
+          51.7592
+        ]
+      },
+      "properties": {
+        "place_id": "lodz",
+        "name": "Łódź",
+        "place_type": "city",
+        "year": 1939,
+        "jewish_population": 233000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.456,
+          51.7592
+        ]
+      },
+      "properties": {
+        "place_id": "lodz",
+        "name": "Łódź",
+        "place_type": "city",
+        "year": 1940,
+        "jewish_population": 160000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.456,
+          51.7592
+        ]
+      },
+      "properties": {
+        "place_id": "lodz",
+        "name": "Łódź",
+        "place_type": "city",
+        "year": 1941,
+        "jewish_population": 160000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.456,
+          51.7592
+        ]
+      },
+      "properties": {
+        "place_id": "lodz",
+        "name": "Łódź",
+        "place_type": "city",
+        "year": 1942,
+        "jewish_population": 90000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.456,
+          51.7592
+        ]
+      },
+      "properties": {
+        "place_id": "lodz",
+        "name": "Łódź",
+        "place_type": "city",
+        "year": 1943,
+        "jewish_population": 80000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.456,
+          51.7592
+        ]
+      },
+      "properties": {
+        "place_id": "lodz",
+        "name": "Łódź",
+        "place_type": "city",
+        "year": 1944,
+        "jewish_population": 5000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.456,
+          51.7592
+        ]
+      },
+      "properties": {
+        "place_id": "lodz",
+        "name": "Łódź",
+        "place_type": "city",
+        "year": 1945,
+        "jewish_population": 877
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.945,
+          50.0647
+        ]
+      },
+      "properties": {
+        "place_id": "krakow",
+        "name": "Kraków",
+        "place_type": "city",
+        "year": 1933,
+        "jewish_population": 56000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.945,
+          50.0647
+        ]
+      },
+      "properties": {
+        "place_id": "krakow",
+        "name": "Kraków",
+        "place_type": "city",
+        "year": 1935,
+        "jewish_population": 58000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.945,
+          50.0647
+        ]
+      },
+      "properties": {
+        "place_id": "krakow",
+        "name": "Kraków",
+        "place_type": "city",
+        "year": 1937,
+        "jewish_population": 60000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.945,
+          50.0647
+        ]
+      },
+      "properties": {
+        "place_id": "krakow",
+        "name": "Kraków",
+        "place_type": "city",
+        "year": 1938,
+        "jewish_population": 64000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.945,
+          50.0647
+        ]
+      },
+      "properties": {
+        "place_id": "krakow",
+        "name": "Kraków",
+        "place_type": "city",
+        "year": 1939,
+        "jewish_population": 68000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.945,
+          50.0647
+        ]
+      },
+      "properties": {
+        "place_id": "krakow",
+        "name": "Kraków",
+        "place_type": "city",
+        "year": 1940,
+        "jewish_population": 55000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.945,
+          50.0647
+        ]
+      },
+      "properties": {
+        "place_id": "krakow",
+        "name": "Kraków",
+        "place_type": "city",
+        "year": 1941,
+        "jewish_population": 20000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.945,
+          50.0647
+        ]
+      },
+      "properties": {
+        "place_id": "krakow",
+        "name": "Kraków",
+        "place_type": "city",
+        "year": 1942,
+        "jewish_population": 6000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1688,
+          53.1325
+        ]
+      },
+      "properties": {
+        "place_id": "bialystok",
+        "name": "Białystok",
+        "place_type": "city",
+        "year": 1933,
+        "jewish_population": 39000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1688,
+          53.1325
+        ]
+      },
+      "properties": {
+        "place_id": "bialystok",
+        "name": "Białystok",
+        "place_type": "city",
+        "year": 1935,
+        "jewish_population": 40000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1688,
+          53.1325
+        ]
+      },
+      "properties": {
+        "place_id": "bialystok",
+        "name": "Białystok",
+        "place_type": "city",
+        "year": 1937,
+        "jewish_population": 42000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1688,
+          53.1325
+        ]
+      },
+      "properties": {
+        "place_id": "bialystok",
+        "name": "Białystok",
+        "place_type": "city",
+        "year": 1938,
+        "jewish_population": 43000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1688,
+          53.1325
+        ]
+      },
+      "properties": {
+        "place_id": "bialystok",
+        "name": "Białystok",
+        "place_type": "city",
+        "year": 1939,
+        "jewish_population": 50000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1688,
+          53.1325
+        ]
+      },
+      "properties": {
+        "place_id": "bialystok",
+        "name": "Białystok",
+        "place_type": "city",
+        "year": 1940,
+        "jewish_population": 50000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1688,
+          53.1325
+        ]
+      },
+      "properties": {
+        "place_id": "bialystok",
+        "name": "Białystok",
+        "place_type": "city",
+        "year": 1941,
+        "jewish_population": 50000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1688,
+          53.1325
+        ]
+      },
+      "properties": {
+        "place_id": "bialystok",
+        "name": "Białystok",
+        "place_type": "city",
+        "year": 1942,
+        "jewish_population": 10000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5684,
+          51.2465
+        ]
+      },
+      "properties": {
+        "place_id": "lublin",
+        "name": "Lublin",
+        "place_type": "city",
+        "year": 1933,
+        "jewish_population": 39000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5684,
+          51.2465
+        ]
+      },
+      "properties": {
+        "place_id": "lublin",
+        "name": "Lublin",
+        "place_type": "city",
+        "year": 1935,
+        "jewish_population": 40000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5684,
+          51.2465
+        ]
+      },
+      "properties": {
+        "place_id": "lublin",
+        "name": "Lublin",
+        "place_type": "city",
+        "year": 1937,
+        "jewish_population": 41000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5684,
+          51.2465
+        ]
+      },
+      "properties": {
+        "place_id": "lublin",
+        "name": "Lublin",
+        "place_type": "city",
+        "year": 1938,
+        "jewish_population": 42000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5684,
+          51.2465
+        ]
+      },
+      "properties": {
+        "place_id": "lublin",
+        "name": "Lublin",
+        "place_type": "city",
+        "year": 1939,
+        "jewish_population": 43000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5684,
+          51.2465
+        ]
+      },
+      "properties": {
+        "place_id": "lublin",
+        "name": "Lublin",
+        "place_type": "city",
+        "year": 1940,
+        "jewish_population": 40000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5684,
+          51.2465
+        ]
+      },
+      "properties": {
+        "place_id": "lublin",
+        "name": "Lublin",
+        "place_type": "city",
+        "year": 1941,
+        "jewish_population": 34000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5684,
+          51.2465
+        ]
+      },
+      "properties": {
+        "place_id": "lublin",
+        "name": "Lublin",
+        "place_type": "city",
+        "year": 1942,
+        "jewish_population": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0297,
+          49.8397
+        ]
+      },
+      "properties": {
+        "place_id": "lvov",
+        "name": "Lwów / Lviv",
+        "place_type": "city",
+        "year": 1933,
+        "jewish_population": 100000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0297,
+          49.8397
+        ]
+      },
+      "properties": {
+        "place_id": "lvov",
+        "name": "Lwów / Lviv",
+        "place_type": "city",
+        "year": 1935,
+        "jewish_population": 105000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0297,
+          49.8397
+        ]
+      },
+      "properties": {
+        "place_id": "lvov",
+        "name": "Lwów / Lviv",
+        "place_type": "city",
+        "year": 1937,
+        "jewish_population": 108000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0297,
+          49.8397
+        ]
+      },
+      "properties": {
+        "place_id": "lvov",
+        "name": "Lwów / Lviv",
+        "place_type": "city",
+        "year": 1938,
+        "jewish_population": 110000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0297,
+          49.8397
+        ]
+      },
+      "properties": {
+        "place_id": "lvov",
+        "name": "Lwów / Lviv",
+        "place_type": "city",
+        "year": 1939,
+        "jewish_population": 110000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0297,
+          49.8397
+        ]
+      },
+      "properties": {
+        "place_id": "lvov",
+        "name": "Lwów / Lviv",
+        "place_type": "city",
+        "year": 1940,
+        "jewish_population": 150000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0297,
+          49.8397
+        ]
+      },
+      "properties": {
+        "place_id": "lvov",
+        "name": "Lwów / Lviv",
+        "place_type": "city",
+        "year": 1941,
+        "jewish_population": 100000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0297,
+          49.8397
+        ]
+      },
+      "properties": {
+        "place_id": "lvov",
+        "name": "Lwów / Lviv",
+        "place_type": "city",
+        "year": 1942,
+        "jewish_population": 20000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2797,
+          54.6872
+        ]
+      },
+      "properties": {
+        "place_id": "vilnius",
+        "name": "Vilnius",
+        "place_type": "city",
+        "year": 1933,
+        "jewish_population": 55000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2797,
+          54.6872
+        ]
+      },
+      "properties": {
+        "place_id": "vilnius",
+        "name": "Vilnius",
+        "place_type": "city",
+        "year": 1935,
+        "jewish_population": 57000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2797,
+          54.6872
+        ]
+      },
+      "properties": {
+        "place_id": "vilnius",
+        "name": "Vilnius",
+        "place_type": "city",
+        "year": 1937,
+        "jewish_population": 58000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2797,
+          54.6872
+        ]
+      },
+      "properties": {
+        "place_id": "vilnius",
+        "name": "Vilnius",
+        "place_type": "city",
+        "year": 1938,
+        "jewish_population": 59000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2797,
+          54.6872
+        ]
+      },
+      "properties": {
+        "place_id": "vilnius",
+        "name": "Vilnius",
+        "place_type": "city",
+        "year": 1939,
+        "jewish_population": 60000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2797,
+          54.6872
+        ]
+      },
+      "properties": {
+        "place_id": "vilnius",
+        "name": "Vilnius",
+        "place_type": "city",
+        "year": 1940,
+        "jewish_population": 60000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2797,
+          54.6872
+        ]
+      },
+      "properties": {
+        "place_id": "vilnius",
+        "name": "Vilnius",
+        "place_type": "city",
+        "year": 1941,
+        "jewish_population": 40000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2797,
+          54.6872
+        ]
+      },
+      "properties": {
+        "place_id": "vilnius",
+        "name": "Vilnius",
+        "place_type": "city",
+        "year": 1942,
+        "jewish_population": 15000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2797,
+          54.6872
+        ]
+      },
+      "properties": {
+        "place_id": "vilnius",
+        "name": "Vilnius",
+        "place_type": "city",
+        "year": 1943,
+        "jewish_population": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9036,
+          54.8985
+        ]
+      },
+      "properties": {
+        "place_id": "kaunas",
+        "name": "Kaunas",
+        "place_type": "city",
+        "year": 1933,
+        "jewish_population": 25000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9036,
+          54.8985
+        ]
+      },
+      "properties": {
+        "place_id": "kaunas",
+        "name": "Kaunas",
+        "place_type": "city",
+        "year": 1935,
+        "jewish_population": 27000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9036,
+          54.8985
+        ]
+      },
+      "properties": {
+        "place_id": "kaunas",
+        "name": "Kaunas",
+        "place_type": "city",
+        "year": 1937,
+        "jewish_population": 30000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9036,
+          54.8985
+        ]
+      },
+      "properties": {
+        "place_id": "kaunas",
+        "name": "Kaunas",
+        "place_type": "city",
+        "year": 1938,
+        "jewish_population": 35000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9036,
+          54.8985
+        ]
+      },
+      "properties": {
+        "place_id": "kaunas",
+        "name": "Kaunas",
+        "place_type": "city",
+        "year": 1939,
+        "jewish_population": 40000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9036,
+          54.8985
+        ]
+      },
+      "properties": {
+        "place_id": "kaunas",
+        "name": "Kaunas",
+        "place_type": "city",
+        "year": 1940,
+        "jewish_population": 40000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9036,
+          54.8985
+        ]
+      },
+      "properties": {
+        "place_id": "kaunas",
+        "name": "Kaunas",
+        "place_type": "city",
+        "year": 1941,
+        "jewish_population": 30000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9036,
+          54.8985
+        ]
+      },
+      "properties": {
+        "place_id": "kaunas",
+        "name": "Kaunas",
+        "place_type": "city",
+        "year": 1942,
+        "jewish_population": 16000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9036,
+          54.8985
+        ]
+      },
+      "properties": {
+        "place_id": "kaunas",
+        "name": "Kaunas",
+        "place_type": "city",
+        "year": 1943,
+        "jewish_population": 8000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.405,
+          52.52
+        ]
+      },
+      "properties": {
+        "place_id": "berlin",
+        "name": "Berlin",
+        "place_type": "city",
+        "year": 1933,
+        "jewish_population": 160000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.405,
+          52.52
+        ]
+      },
+      "properties": {
+        "place_id": "berlin",
+        "name": "Berlin",
+        "place_type": "city",
+        "year": 1935,
+        "jewish_population": 150000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.405,
+          52.52
+        ]
+      },
+      "properties": {
+        "place_id": "berlin",
+        "name": "Berlin",
+        "place_type": "city",
+        "year": 1937,
+        "jewish_population": 140000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.405,
+          52.52
+        ]
+      },
+      "properties": {
+        "place_id": "berlin",
+        "name": "Berlin",
+        "place_type": "city",
+        "year": 1938,
+        "jewish_population": 120000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.405,
+          52.52
+        ]
+      },
+      "properties": {
+        "place_id": "berlin",
+        "name": "Berlin",
+        "place_type": "city",
+        "year": 1939,
+        "jewish_population": 95000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.405,
+          52.52
+        ]
+      },
+      "properties": {
+        "place_id": "berlin",
+        "name": "Berlin",
+        "place_type": "city",
+        "year": 1940,
+        "jewish_population": 72000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.405,
+          52.52
+        ]
+      },
+      "properties": {
+        "place_id": "berlin",
+        "name": "Berlin",
+        "place_type": "city",
+        "year": 1941,
+        "jewish_population": 60000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.405,
+          52.52
+        ]
+      },
+      "properties": {
+        "place_id": "berlin",
+        "name": "Berlin",
+        "place_type": "city",
+        "year": 1942,
+        "jewish_population": 33000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.405,
+          52.52
+        ]
+      },
+      "properties": {
+        "place_id": "berlin",
+        "name": "Berlin",
+        "place_type": "city",
+        "year": 1943,
+        "jewish_population": 5000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.405,
+          52.52
+        ]
+      },
+      "properties": {
+        "place_id": "berlin",
+        "name": "Berlin",
+        "place_type": "city",
+        "year": 1944,
+        "jewish_population": 1500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.405,
+          52.52
+        ]
+      },
+      "properties": {
+        "place_id": "berlin",
+        "name": "Berlin",
+        "place_type": "city",
+        "year": 1945,
+        "jewish_population": 7000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6821,
+          50.1109
+        ]
+      },
+      "properties": {
+        "place_id": "frankfurt",
+        "name": "Frankfurt am Main",
+        "place_type": "city",
+        "year": 1933,
+        "jewish_population": 26000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6821,
+          50.1109
+        ]
+      },
+      "properties": {
+        "place_id": "frankfurt",
+        "name": "Frankfurt am Main",
+        "place_type": "city",
+        "year": 1935,
+        "jewish_population": 24000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6821,
+          50.1109
+        ]
+      },
+      "properties": {
+        "place_id": "frankfurt",
+        "name": "Frankfurt am Main",
+        "place_type": "city",
+        "year": 1937,
+        "jewish_population": 22000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6821,
+          50.1109
+        ]
+      },
+      "properties": {
+        "place_id": "frankfurt",
+        "name": "Frankfurt am Main",
+        "place_type": "city",
+        "year": 1938,
+        "jewish_population": 14000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6821,
+          50.1109
+        ]
+      },
+      "properties": {
+        "place_id": "frankfurt",
+        "name": "Frankfurt am Main",
+        "place_type": "city",
+        "year": 1939,
+        "jewish_population": 10000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6821,
+          50.1109
+        ]
+      },
+      "properties": {
+        "place_id": "frankfurt",
+        "name": "Frankfurt am Main",
+        "place_type": "city",
+        "year": 1940,
+        "jewish_population": 6000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6821,
+          50.1109
+        ]
+      },
+      "properties": {
+        "place_id": "frankfurt",
+        "name": "Frankfurt am Main",
+        "place_type": "city",
+        "year": 1941,
+        "jewish_population": 3000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6821,
+          50.1109
+        ]
+      },
+      "properties": {
+        "place_id": "frankfurt",
+        "name": "Frankfurt am Main",
+        "place_type": "city",
+        "year": 1942,
+        "jewish_population": 500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6821,
+          50.1109
+        ]
+      },
+      "properties": {
+        "place_id": "frankfurt",
+        "name": "Frankfurt am Main",
+        "place_type": "city",
+        "year": 1943,
+        "jewish_population": 100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6821,
+          50.1109
+        ]
+      },
+      "properties": {
+        "place_id": "frankfurt",
+        "name": "Frankfurt am Main",
+        "place_type": "city",
+        "year": 1944,
+        "jewish_population": 50
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6821,
+          50.1109
+        ]
+      },
+      "properties": {
+        "place_id": "frankfurt",
+        "name": "Frankfurt am Main",
+        "place_type": "city",
+        "year": 1945,
+        "jewish_population": 200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.582,
+          48.1351
+        ]
+      },
+      "properties": {
+        "place_id": "munich",
+        "name": "Munich",
+        "place_type": "city",
+        "year": 1933,
+        "jewish_population": 9000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.582,
+          48.1351
+        ]
+      },
+      "properties": {
+        "place_id": "munich",
+        "name": "Munich",
+        "place_type": "city",
+        "year": 1935,
+        "jewish_population": 8000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.582,
+          48.1351
+        ]
+      },
+      "properties": {
+        "place_id": "munich",
+        "name": "Munich",
+        "place_type": "city",
+        "year": 1937,
+        "jewish_population": 7000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.582,
+          48.1351
+        ]
+      },
+      "properties": {
+        "place_id": "munich",
+        "name": "Munich",
+        "place_type": "city",
+        "year": 1938,
+        "jewish_population": 5000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.582,
+          48.1351
+        ]
+      },
+      "properties": {
+        "place_id": "munich",
+        "name": "Munich",
+        "place_type": "city",
+        "year": 1939,
+        "jewish_population": 4000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.582,
+          48.1351
+        ]
+      },
+      "properties": {
+        "place_id": "munich",
+        "name": "Munich",
+        "place_type": "city",
+        "year": 1940,
+        "jewish_population": 2500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.582,
+          48.1351
+        ]
+      },
+      "properties": {
+        "place_id": "munich",
+        "name": "Munich",
+        "place_type": "city",
+        "year": 1941,
+        "jewish_population": 1500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.582,
+          48.1351
+        ]
+      },
+      "properties": {
+        "place_id": "munich",
+        "name": "Munich",
+        "place_type": "city",
+        "year": 1942,
+        "jewish_population": 400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.582,
+          48.1351
+        ]
+      },
+      "properties": {
+        "place_id": "munich",
+        "name": "Munich",
+        "place_type": "city",
+        "year": 1943,
+        "jewish_population": 100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.582,
+          48.1351
+        ]
+      },
+      "properties": {
+        "place_id": "munich",
+        "name": "Munich",
+        "place_type": "city",
+        "year": 1944,
+        "jewish_population": 50
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.582,
+          48.1351
+        ]
+      },
+      "properties": {
+        "place_id": "munich",
+        "name": "Munich",
+        "place_type": "city",
+        "year": 1945,
+        "jewish_population": 100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3738,
+          48.2082
+        ]
+      },
+      "properties": {
+        "place_id": "vienna",
+        "name": "Vienna",
+        "place_type": "city",
+        "year": 1933,
+        "jewish_population": 176000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3738,
+          48.2082
+        ]
+      },
+      "properties": {
+        "place_id": "vienna",
+        "name": "Vienna",
+        "place_type": "city",
+        "year": 1935,
+        "jewish_population": 175000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3738,
+          48.2082
+        ]
+      },
+      "properties": {
+        "place_id": "vienna",
+        "name": "Vienna",
+        "place_type": "city",
+        "year": 1937,
+        "jewish_population": 170000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3738,
+          48.2082
+        ]
+      },
+      "properties": {
+        "place_id": "vienna",
+        "name": "Vienna",
+        "place_type": "city",
+        "year": 1938,
+        "jewish_population": 170000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3738,
+          48.2082
+        ]
+      },
+      "properties": {
+        "place_id": "vienna",
+        "name": "Vienna",
+        "place_type": "city",
+        "year": 1939,
+        "jewish_population": 66000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3738,
+          48.2082
+        ]
+      },
+      "properties": {
+        "place_id": "vienna",
+        "name": "Vienna",
+        "place_type": "city",
+        "year": 1940,
+        "jewish_population": 50000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3738,
+          48.2082
+        ]
+      },
+      "properties": {
+        "place_id": "vienna",
+        "name": "Vienna",
+        "place_type": "city",
+        "year": 1941,
+        "jewish_population": 45000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3738,
+          48.2082
+        ]
+      },
+      "properties": {
+        "place_id": "vienna",
+        "name": "Vienna",
+        "place_type": "city",
+        "year": 1942,
+        "jewish_population": 7000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3738,
+          48.2082
+        ]
+      },
+      "properties": {
+        "place_id": "vienna",
+        "name": "Vienna",
+        "place_type": "city",
+        "year": 1943,
+        "jewish_population": 1000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3738,
+          48.2082
+        ]
+      },
+      "properties": {
+        "place_id": "vienna",
+        "name": "Vienna",
+        "place_type": "city",
+        "year": 1944,
+        "jewish_population": 500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3738,
+          48.2082
+        ]
+      },
+      "properties": {
+        "place_id": "vienna",
+        "name": "Vienna",
+        "place_type": "city",
+        "year": 1945,
+        "jewish_population": 4000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4378,
+          50.0755
+        ]
+      },
+      "properties": {
+        "place_id": "prague",
+        "name": "Prague",
+        "place_type": "city",
+        "year": 1933,
+        "jewish_population": 35000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4378,
+          50.0755
+        ]
+      },
+      "properties": {
+        "place_id": "prague",
+        "name": "Prague",
+        "place_type": "city",
+        "year": 1935,
+        "jewish_population": 36000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4378,
+          50.0755
+        ]
+      },
+      "properties": {
+        "place_id": "prague",
+        "name": "Prague",
+        "place_type": "city",
+        "year": 1937,
+        "jewish_population": 38000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4378,
+          50.0755
+        ]
+      },
+      "properties": {
+        "place_id": "prague",
+        "name": "Prague",
+        "place_type": "city",
+        "year": 1938,
+        "jewish_population": 40000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4378,
+          50.0755
+        ]
+      },
+      "properties": {
+        "place_id": "prague",
+        "name": "Prague",
+        "place_type": "city",
+        "year": 1939,
+        "jewish_population": 45000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4378,
+          50.0755
+        ]
+      },
+      "properties": {
+        "place_id": "prague",
+        "name": "Prague",
+        "place_type": "city",
+        "year": 1940,
+        "jewish_population": 45000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4378,
+          50.0755
+        ]
+      },
+      "properties": {
+        "place_id": "prague",
+        "name": "Prague",
+        "place_type": "city",
+        "year": 1941,
+        "jewish_population": 40000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4378,
+          50.0755
+        ]
+      },
+      "properties": {
+        "place_id": "prague",
+        "name": "Prague",
+        "place_type": "city",
+        "year": 1942,
+        "jewish_population": 15000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4378,
+          50.0755
+        ]
+      },
+      "properties": {
+        "place_id": "prague",
+        "name": "Prague",
+        "place_type": "city",
+        "year": 1943,
+        "jewish_population": 3000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4378,
+          50.0755
+        ]
+      },
+      "properties": {
+        "place_id": "prague",
+        "name": "Prague",
+        "place_type": "city",
+        "year": 1944,
+        "jewish_population": 1000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4378,
+          50.0755
+        ]
+      },
+      "properties": {
+        "place_id": "prague",
+        "name": "Prague",
+        "place_type": "city",
+        "year": 1945,
+        "jewish_population": 3000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0402,
+          47.4979
+        ]
+      },
+      "properties": {
+        "place_id": "budapest",
+        "name": "Budapest",
+        "place_type": "city",
+        "year": 1933,
+        "jewish_population": 200000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0402,
+          47.4979
+        ]
+      },
+      "properties": {
+        "place_id": "budapest",
+        "name": "Budapest",
+        "place_type": "city",
+        "year": 1935,
+        "jewish_population": 201000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0402,
+          47.4979
+        ]
+      },
+      "properties": {
+        "place_id": "budapest",
+        "name": "Budapest",
+        "place_type": "city",
+        "year": 1937,
+        "jewish_population": 205000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0402,
+          47.4979
+        ]
+      },
+      "properties": {
+        "place_id": "budapest",
+        "name": "Budapest",
+        "place_type": "city",
+        "year": 1938,
+        "jewish_population": 208000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0402,
+          47.4979
+        ]
+      },
+      "properties": {
+        "place_id": "budapest",
+        "name": "Budapest",
+        "place_type": "city",
+        "year": 1939,
+        "jewish_population": 210000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0402,
+          47.4979
+        ]
+      },
+      "properties": {
+        "place_id": "budapest",
+        "name": "Budapest",
+        "place_type": "city",
+        "year": 1940,
+        "jewish_population": 210000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0402,
+          47.4979
+        ]
+      },
+      "properties": {
+        "place_id": "budapest",
+        "name": "Budapest",
+        "place_type": "city",
+        "year": 1941,
+        "jewish_population": 200000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0402,
+          47.4979
+        ]
+      },
+      "properties": {
+        "place_id": "budapest",
+        "name": "Budapest",
+        "place_type": "city",
+        "year": 1942,
+        "jewish_population": 200000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0402,
+          47.4979
+        ]
+      },
+      "properties": {
+        "place_id": "budapest",
+        "name": "Budapest",
+        "place_type": "city",
+        "year": 1943,
+        "jewish_population": 200000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0402,
+          47.4979
+        ]
+      },
+      "properties": {
+        "place_id": "budapest",
+        "name": "Budapest",
+        "place_type": "city",
+        "year": 1944,
+        "jewish_population": 70000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0402,
+          47.4979
+        ]
+      },
+      "properties": {
+        "place_id": "budapest",
+        "name": "Budapest",
+        "place_type": "city",
+        "year": 1945,
+        "jewish_population": 100000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5234,
+          50.4501
+        ]
+      },
+      "properties": {
+        "place_id": "kiev",
+        "name": "Kiev",
+        "place_type": "city",
+        "year": 1933,
+        "jewish_population": 140000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5234,
+          50.4501
+        ]
+      },
+      "properties": {
+        "place_id": "kiev",
+        "name": "Kiev",
+        "place_type": "city",
+        "year": 1935,
+        "jewish_population": 150000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5234,
+          50.4501
+        ]
+      },
+      "properties": {
+        "place_id": "kiev",
+        "name": "Kiev",
+        "place_type": "city",
+        "year": 1937,
+        "jewish_population": 160000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5234,
+          50.4501
+        ]
+      },
+      "properties": {
+        "place_id": "kiev",
+        "name": "Kiev",
+        "place_type": "city",
+        "year": 1938,
+        "jewish_population": 170000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5234,
+          50.4501
+        ]
+      },
+      "properties": {
+        "place_id": "kiev",
+        "name": "Kiev",
+        "place_type": "city",
+        "year": 1939,
+        "jewish_population": 175000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5234,
+          50.4501
+        ]
+      },
+      "properties": {
+        "place_id": "kiev",
+        "name": "Kiev",
+        "place_type": "city",
+        "year": 1940,
+        "jewish_population": 175000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5234,
+          50.4501
+        ]
+      },
+      "properties": {
+        "place_id": "kiev",
+        "name": "Kiev",
+        "place_type": "city",
+        "year": 1941,
+        "jewish_population": 20000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5234,
+          50.4501
+        ]
+      },
+      "properties": {
+        "place_id": "kiev",
+        "name": "Kiev",
+        "place_type": "city",
+        "year": 1942,
+        "jewish_population": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5234,
+          50.4501
+        ]
+      },
+      "properties": {
+        "place_id": "kiev",
+        "name": "Kiev",
+        "place_type": "city",
+        "year": 1945,
+        "jewish_population": 5000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7233,
+          46.4825
+        ]
+      },
+      "properties": {
+        "place_id": "odessa",
+        "name": "Odessa",
+        "place_type": "city",
+        "year": 1933,
+        "jewish_population": 150000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7233,
+          46.4825
+        ]
+      },
+      "properties": {
+        "place_id": "odessa",
+        "name": "Odessa",
+        "place_type": "city",
+        "year": 1935,
+        "jewish_population": 155000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7233,
+          46.4825
+        ]
+      },
+      "properties": {
+        "place_id": "odessa",
+        "name": "Odessa",
+        "place_type": "city",
+        "year": 1937,
+        "jewish_population": 165000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7233,
+          46.4825
+        ]
+      },
+      "properties": {
+        "place_id": "odessa",
+        "name": "Odessa",
+        "place_type": "city",
+        "year": 1938,
+        "jewish_population": 170000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7233,
+          46.4825
+        ]
+      },
+      "properties": {
+        "place_id": "odessa",
+        "name": "Odessa",
+        "place_type": "city",
+        "year": 1939,
+        "jewish_population": 180000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7233,
+          46.4825
+        ]
+      },
+      "properties": {
+        "place_id": "odessa",
+        "name": "Odessa",
+        "place_type": "city",
+        "year": 1940,
+        "jewish_population": 180000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7233,
+          46.4825
+        ]
+      },
+      "properties": {
+        "place_id": "odessa",
+        "name": "Odessa",
+        "place_type": "city",
+        "year": 1941,
+        "jewish_population": 90000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7233,
+          46.4825
+        ]
+      },
+      "properties": {
+        "place_id": "odessa",
+        "name": "Odessa",
+        "place_type": "city",
+        "year": 1942,
+        "jewish_population": 20000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7233,
+          46.4825
+        ]
+      },
+      "properties": {
+        "place_id": "odessa",
+        "name": "Odessa",
+        "place_type": "city",
+        "year": 1943,
+        "jewish_population": 5000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7233,
+          46.4825
+        ]
+      },
+      "properties": {
+        "place_id": "odessa",
+        "name": "Odessa",
+        "place_type": "city",
+        "year": 1945,
+        "jewish_population": 10000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.559,
+          53.9006
+        ]
+      },
+      "properties": {
+        "place_id": "minsk",
+        "name": "Minsk",
+        "place_type": "city",
+        "year": 1933,
+        "jewish_population": 55000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.559,
+          53.9006
+        ]
+      },
+      "properties": {
+        "place_id": "minsk",
+        "name": "Minsk",
+        "place_type": "city",
+        "year": 1935,
+        "jewish_population": 60000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.559,
+          53.9006
+        ]
+      },
+      "properties": {
+        "place_id": "minsk",
+        "name": "Minsk",
+        "place_type": "city",
+        "year": 1937,
+        "jewish_population": 65000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.559,
+          53.9006
+        ]
+      },
+      "properties": {
+        "place_id": "minsk",
+        "name": "Minsk",
+        "place_type": "city",
+        "year": 1938,
+        "jewish_population": 68000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.559,
+          53.9006
+        ]
+      },
+      "properties": {
+        "place_id": "minsk",
+        "name": "Minsk",
+        "place_type": "city",
+        "year": 1939,
+        "jewish_population": 71000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.559,
+          53.9006
+        ]
+      },
+      "properties": {
+        "place_id": "minsk",
+        "name": "Minsk",
+        "place_type": "city",
+        "year": 1940,
+        "jewish_population": 80000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.559,
+          53.9006
+        ]
+      },
+      "properties": {
+        "place_id": "minsk",
+        "name": "Minsk",
+        "place_type": "city",
+        "year": 1941,
+        "jewish_population": 80000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.559,
+          53.9006
+        ]
+      },
+      "properties": {
+        "place_id": "minsk",
+        "name": "Minsk",
+        "place_type": "city",
+        "year": 1942,
+        "jewish_population": 10000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.559,
+          53.9006
+        ]
+      },
+      "properties": {
+        "place_id": "minsk",
+        "name": "Minsk",
+        "place_type": "city",
+        "year": 1945,
+        "jewish_population": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1052,
+          56.9496
+        ]
+      },
+      "properties": {
+        "place_id": "riga",
+        "name": "Riga",
+        "place_type": "city",
+        "year": 1933,
+        "jewish_population": 42000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1052,
+          56.9496
+        ]
+      },
+      "properties": {
+        "place_id": "riga",
+        "name": "Riga",
+        "place_type": "city",
+        "year": 1935,
+        "jewish_population": 43000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1052,
+          56.9496
+        ]
+      },
+      "properties": {
+        "place_id": "riga",
+        "name": "Riga",
+        "place_type": "city",
+        "year": 1937,
+        "jewish_population": 43000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1052,
+          56.9496
+        ]
+      },
+      "properties": {
+        "place_id": "riga",
+        "name": "Riga",
+        "place_type": "city",
+        "year": 1938,
+        "jewish_population": 43000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1052,
+          56.9496
+        ]
+      },
+      "properties": {
+        "place_id": "riga",
+        "name": "Riga",
+        "place_type": "city",
+        "year": 1939,
+        "jewish_population": 43000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1052,
+          56.9496
+        ]
+      },
+      "properties": {
+        "place_id": "riga",
+        "name": "Riga",
+        "place_type": "city",
+        "year": 1940,
+        "jewish_population": 43000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1052,
+          56.9496
+        ]
+      },
+      "properties": {
+        "place_id": "riga",
+        "name": "Riga",
+        "place_type": "city",
+        "year": 1941,
+        "jewish_population": 30000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1052,
+          56.9496
+        ]
+      },
+      "properties": {
+        "place_id": "riga",
+        "name": "Riga",
+        "place_type": "city",
+        "year": 1942,
+        "jewish_population": 5000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1052,
+          56.9496
+        ]
+      },
+      "properties": {
+        "place_id": "riga",
+        "name": "Riga",
+        "place_type": "city",
+        "year": 1943,
+        "jewish_population": 1000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1052,
+          56.9496
+        ]
+      },
+      "properties": {
+        "place_id": "riga",
+        "name": "Riga",
+        "place_type": "city",
+        "year": 1945,
+        "jewish_population": 150
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9444,
+          40.6401
+        ]
+      },
+      "properties": {
+        "place_id": "thessaloniki",
+        "name": "Thessaloniki",
+        "place_type": "city",
+        "year": 1933,
+        "jewish_population": 50000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9444,
+          40.6401
+        ]
+      },
+      "properties": {
+        "place_id": "thessaloniki",
+        "name": "Thessaloniki",
+        "place_type": "city",
+        "year": 1935,
+        "jewish_population": 52000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9444,
+          40.6401
+        ]
+      },
+      "properties": {
+        "place_id": "thessaloniki",
+        "name": "Thessaloniki",
+        "place_type": "city",
+        "year": 1937,
+        "jewish_population": 54000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9444,
+          40.6401
+        ]
+      },
+      "properties": {
+        "place_id": "thessaloniki",
+        "name": "Thessaloniki",
+        "place_type": "city",
+        "year": 1938,
+        "jewish_population": 55000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9444,
+          40.6401
+        ]
+      },
+      "properties": {
+        "place_id": "thessaloniki",
+        "name": "Thessaloniki",
+        "place_type": "city",
+        "year": 1939,
+        "jewish_population": 56000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9444,
+          40.6401
+        ]
+      },
+      "properties": {
+        "place_id": "thessaloniki",
+        "name": "Thessaloniki",
+        "place_type": "city",
+        "year": 1940,
+        "jewish_population": 56000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9444,
+          40.6401
+        ]
+      },
+      "properties": {
+        "place_id": "thessaloniki",
+        "name": "Thessaloniki",
+        "place_type": "city",
+        "year": 1941,
+        "jewish_population": 50000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9444,
+          40.6401
+        ]
+      },
+      "properties": {
+        "place_id": "thessaloniki",
+        "name": "Thessaloniki",
+        "place_type": "city",
+        "year": 1942,
+        "jewish_population": 48000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9444,
+          40.6401
+        ]
+      },
+      "properties": {
+        "place_id": "thessaloniki",
+        "name": "Thessaloniki",
+        "place_type": "city",
+        "year": 1943,
+        "jewish_population": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9444,
+          40.6401
+        ]
+      },
+      "properties": {
+        "place_id": "thessaloniki",
+        "name": "Thessaloniki",
+        "place_type": "city",
+        "year": 1944,
+        "jewish_population": 500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9444,
+          40.6401
+        ]
+      },
+      "properties": {
+        "place_id": "thessaloniki",
+        "name": "Thessaloniki",
+        "place_type": "city",
+        "year": 1945,
+        "jewish_population": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9041,
+          52.3676
+        ]
+      },
+      "properties": {
+        "place_id": "amsterdam",
+        "name": "Amsterdam",
+        "place_type": "city",
+        "year": 1933,
+        "jewish_population": 65000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9041,
+          52.3676
+        ]
+      },
+      "properties": {
+        "place_id": "amsterdam",
+        "name": "Amsterdam",
+        "place_type": "city",
+        "year": 1935,
+        "jewish_population": 68000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9041,
+          52.3676
+        ]
+      },
+      "properties": {
+        "place_id": "amsterdam",
+        "name": "Amsterdam",
+        "place_type": "city",
+        "year": 1937,
+        "jewish_population": 72000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9041,
+          52.3676
+        ]
+      },
+      "properties": {
+        "place_id": "amsterdam",
+        "name": "Amsterdam",
+        "place_type": "city",
+        "year": 1938,
+        "jewish_population": 75000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9041,
+          52.3676
+        ]
+      },
+      "properties": {
+        "place_id": "amsterdam",
+        "name": "Amsterdam",
+        "place_type": "city",
+        "year": 1939,
+        "jewish_population": 80000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9041,
+          52.3676
+        ]
+      },
+      "properties": {
+        "place_id": "amsterdam",
+        "name": "Amsterdam",
+        "place_type": "city",
+        "year": 1940,
+        "jewish_population": 79000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9041,
+          52.3676
+        ]
+      },
+      "properties": {
+        "place_id": "amsterdam",
+        "name": "Amsterdam",
+        "place_type": "city",
+        "year": 1941,
+        "jewish_population": 75000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9041,
+          52.3676
+        ]
+      },
+      "properties": {
+        "place_id": "amsterdam",
+        "name": "Amsterdam",
+        "place_type": "city",
+        "year": 1942,
+        "jewish_population": 50000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9041,
+          52.3676
+        ]
+      },
+      "properties": {
+        "place_id": "amsterdam",
+        "name": "Amsterdam",
+        "place_type": "city",
+        "year": 1943,
+        "jewish_population": 15000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9041,
+          52.3676
+        ]
+      },
+      "properties": {
+        "place_id": "amsterdam",
+        "name": "Amsterdam",
+        "place_type": "city",
+        "year": 1944,
+        "jewish_population": 5000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9041,
+          52.3676
+        ]
+      },
+      "properties": {
+        "place_id": "amsterdam",
+        "name": "Amsterdam",
+        "place_type": "city",
+        "year": 1945,
+        "jewish_population": 10000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522,
+          48.8566
+        ]
+      },
+      "properties": {
+        "place_id": "paris",
+        "name": "Paris",
+        "place_type": "city",
+        "year": 1933,
+        "jewish_population": 150000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522,
+          48.8566
+        ]
+      },
+      "properties": {
+        "place_id": "paris",
+        "name": "Paris",
+        "place_type": "city",
+        "year": 1935,
+        "jewish_population": 160000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522,
+          48.8566
+        ]
+      },
+      "properties": {
+        "place_id": "paris",
+        "name": "Paris",
+        "place_type": "city",
+        "year": 1937,
+        "jewish_population": 170000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522,
+          48.8566
+        ]
+      },
+      "properties": {
+        "place_id": "paris",
+        "name": "Paris",
+        "place_type": "city",
+        "year": 1938,
+        "jewish_population": 180000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522,
+          48.8566
+        ]
+      },
+      "properties": {
+        "place_id": "paris",
+        "name": "Paris",
+        "place_type": "city",
+        "year": 1939,
+        "jewish_population": 200000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522,
+          48.8566
+        ]
+      },
+      "properties": {
+        "place_id": "paris",
+        "name": "Paris",
+        "place_type": "city",
+        "year": 1940,
+        "jewish_population": 150000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522,
+          48.8566
+        ]
+      },
+      "properties": {
+        "place_id": "paris",
+        "name": "Paris",
+        "place_type": "city",
+        "year": 1941,
+        "jewish_population": 120000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522,
+          48.8566
+        ]
+      },
+      "properties": {
+        "place_id": "paris",
+        "name": "Paris",
+        "place_type": "city",
+        "year": 1942,
+        "jewish_population": 80000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522,
+          48.8566
+        ]
+      },
+      "properties": {
+        "place_id": "paris",
+        "name": "Paris",
+        "place_type": "city",
+        "year": 1943,
+        "jewish_population": 50000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522,
+          48.8566
+        ]
+      },
+      "properties": {
+        "place_id": "paris",
+        "name": "Paris",
+        "place_type": "city",
+        "year": 1944,
+        "jewish_population": 30000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522,
+          48.8566
+        ]
+      },
+      "properties": {
+        "place_id": "paris",
+        "name": "Paris",
+        "place_type": "city",
+        "year": 1945,
+        "jewish_population": 50000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3517,
+          50.8503
+        ]
+      },
+      "properties": {
+        "place_id": "brussels",
+        "name": "Brussels",
+        "place_type": "city",
+        "year": 1933,
+        "jewish_population": 30000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3517,
+          50.8503
+        ]
+      },
+      "properties": {
+        "place_id": "brussels",
+        "name": "Brussels",
+        "place_type": "city",
+        "year": 1935,
+        "jewish_population": 32000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3517,
+          50.8503
+        ]
+      },
+      "properties": {
+        "place_id": "brussels",
+        "name": "Brussels",
+        "place_type": "city",
+        "year": 1937,
+        "jewish_population": 35000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3517,
+          50.8503
+        ]
+      },
+      "properties": {
+        "place_id": "brussels",
+        "name": "Brussels",
+        "place_type": "city",
+        "year": 1938,
+        "jewish_population": 40000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3517,
+          50.8503
+        ]
+      },
+      "properties": {
+        "place_id": "brussels",
+        "name": "Brussels",
+        "place_type": "city",
+        "year": 1939,
+        "jewish_population": 45000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3517,
+          50.8503
+        ]
+      },
+      "properties": {
+        "place_id": "brussels",
+        "name": "Brussels",
+        "place_type": "city",
+        "year": 1940,
+        "jewish_population": 40000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3517,
+          50.8503
+        ]
+      },
+      "properties": {
+        "place_id": "brussels",
+        "name": "Brussels",
+        "place_type": "city",
+        "year": 1941,
+        "jewish_population": 35000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3517,
+          50.8503
+        ]
+      },
+      "properties": {
+        "place_id": "brussels",
+        "name": "Brussels",
+        "place_type": "city",
+        "year": 1942,
+        "jewish_population": 20000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3517,
+          50.8503
+        ]
+      },
+      "properties": {
+        "place_id": "brussels",
+        "name": "Brussels",
+        "place_type": "city",
+        "year": 1943,
+        "jewish_population": 8000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3517,
+          50.8503
+        ]
+      },
+      "properties": {
+        "place_id": "brussels",
+        "name": "Brussels",
+        "place_type": "city",
+        "year": 1944,
+        "jewish_population": 3000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3517,
+          50.8503
+        ]
+      },
+      "properties": {
+        "place_id": "brussels",
+        "name": "Brussels",
+        "place_type": "city",
+        "year": 1945,
+        "jewish_population": 15000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1025,
+          44.4268
+        ]
+      },
+      "properties": {
+        "place_id": "bucharest",
+        "name": "Bucharest",
+        "place_type": "city",
+        "year": 1933,
+        "jewish_population": 70000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1025,
+          44.4268
+        ]
+      },
+      "properties": {
+        "place_id": "bucharest",
+        "name": "Bucharest",
+        "place_type": "city",
+        "year": 1935,
+        "jewish_population": 72000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1025,
+          44.4268
+        ]
+      },
+      "properties": {
+        "place_id": "bucharest",
+        "name": "Bucharest",
+        "place_type": "city",
+        "year": 1937,
+        "jewish_population": 74000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1025,
+          44.4268
+        ]
+      },
+      "properties": {
+        "place_id": "bucharest",
+        "name": "Bucharest",
+        "place_type": "city",
+        "year": 1938,
+        "jewish_population": 76000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1025,
+          44.4268
+        ]
+      },
+      "properties": {
+        "place_id": "bucharest",
+        "name": "Bucharest",
+        "place_type": "city",
+        "year": 1939,
+        "jewish_population": 80000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1025,
+          44.4268
+        ]
+      },
+      "properties": {
+        "place_id": "bucharest",
+        "name": "Bucharest",
+        "place_type": "city",
+        "year": 1940,
+        "jewish_population": 95000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1025,
+          44.4268
+        ]
+      },
+      "properties": {
+        "place_id": "bucharest",
+        "name": "Bucharest",
+        "place_type": "city",
+        "year": 1941,
+        "jewish_population": 100000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1025,
+          44.4268
+        ]
+      },
+      "properties": {
+        "place_id": "bucharest",
+        "name": "Bucharest",
+        "place_type": "city",
+        "year": 1942,
+        "jewish_population": 100000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1025,
+          44.4268
+        ]
+      },
+      "properties": {
+        "place_id": "bucharest",
+        "name": "Bucharest",
+        "place_type": "city",
+        "year": 1943,
+        "jewish_population": 100000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1025,
+          44.4268
+        ]
+      },
+      "properties": {
+        "place_id": "bucharest",
+        "name": "Bucharest",
+        "place_type": "city",
+        "year": 1944,
+        "jewish_population": 100000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1025,
+          44.4268
+        ]
+      },
+      "properties": {
+        "place_id": "bucharest",
+        "name": "Bucharest",
+        "place_type": "city",
+        "year": 1945,
+        "jewish_population": 120000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.92,
+          40.645
+        ]
+      },
+      "properties": {
+        "place_id": "salonika_port_note",
+        "name": "Salonika Baron Hirsch camp area",
+        "place_type": "deportation_hub",
+        "year": 1942,
+        "jewish_population": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.92,
+          40.645
+        ]
+      },
+      "properties": {
+        "place_id": "salonika_port_note",
+        "name": "Salonika Baron Hirsch camp area",
+        "place_type": "deportation_hub",
+        "year": 1943,
+        "jewish_population": 8000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4025,
+          51.2194
+        ]
+      },
+      "properties": {
+        "place_id": "antwerp",
+        "name": "Antwerp",
+        "place_type": "city",
+        "year": 1933,
+        "jewish_population": 22000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4025,
+          51.2194
+        ]
+      },
+      "properties": {
+        "place_id": "antwerp",
+        "name": "Antwerp",
+        "place_type": "city",
+        "year": 1935,
+        "jewish_population": 24000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4025,
+          51.2194
+        ]
+      },
+      "properties": {
+        "place_id": "antwerp",
+        "name": "Antwerp",
+        "place_type": "city",
+        "year": 1937,
+        "jewish_population": 28000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4025,
+          51.2194
+        ]
+      },
+      "properties": {
+        "place_id": "antwerp",
+        "name": "Antwerp",
+        "place_type": "city",
+        "year": 1938,
+        "jewish_population": 30000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4025,
+          51.2194
+        ]
+      },
+      "properties": {
+        "place_id": "antwerp",
+        "name": "Antwerp",
+        "place_type": "city",
+        "year": 1939,
+        "jewish_population": 35000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4025,
+          51.2194
+        ]
+      },
+      "properties": {
+        "place_id": "antwerp",
+        "name": "Antwerp",
+        "place_type": "city",
+        "year": 1940,
+        "jewish_population": 30000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4025,
+          51.2194
+        ]
+      },
+      "properties": {
+        "place_id": "antwerp",
+        "name": "Antwerp",
+        "place_type": "city",
+        "year": 1941,
+        "jewish_population": 25000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4025,
+          51.2194
+        ]
+      },
+      "properties": {
+        "place_id": "antwerp",
+        "name": "Antwerp",
+        "place_type": "city",
+        "year": 1942,
+        "jewish_population": 10000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4025,
+          51.2194
+        ]
+      },
+      "properties": {
+        "place_id": "antwerp",
+        "name": "Antwerp",
+        "place_type": "city",
+        "year": 1943,
+        "jewish_population": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4025,
+          51.2194
+        ]
+      },
+      "properties": {
+        "place_id": "antwerp",
+        "name": "Antwerp",
+        "place_type": "city",
+        "year": 1944,
+        "jewish_population": 500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4025,
+          51.2194
+        ]
+      },
+      "properties": {
+        "place_id": "antwerp",
+        "name": "Antwerp",
+        "place_type": "city",
+        "year": 1945,
+        "jewish_population": 5000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9819,
+          45.815
+        ]
+      },
+      "properties": {
+        "place_id": "zagreb",
+        "name": "Zagreb",
+        "place_type": "city",
+        "year": 1933,
+        "jewish_population": 9000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9819,
+          45.815
+        ]
+      },
+      "properties": {
+        "place_id": "zagreb",
+        "name": "Zagreb",
+        "place_type": "city",
+        "year": 1935,
+        "jewish_population": 9500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9819,
+          45.815
+        ]
+      },
+      "properties": {
+        "place_id": "zagreb",
+        "name": "Zagreb",
+        "place_type": "city",
+        "year": 1937,
+        "jewish_population": 10000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9819,
+          45.815
+        ]
+      },
+      "properties": {
+        "place_id": "zagreb",
+        "name": "Zagreb",
+        "place_type": "city",
+        "year": 1938,
+        "jewish_population": 11000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9819,
+          45.815
+        ]
+      },
+      "properties": {
+        "place_id": "zagreb",
+        "name": "Zagreb",
+        "place_type": "city",
+        "year": 1939,
+        "jewish_population": 12000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9819,
+          45.815
+        ]
+      },
+      "properties": {
+        "place_id": "zagreb",
+        "name": "Zagreb",
+        "place_type": "city",
+        "year": 1940,
+        "jewish_population": 12000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9819,
+          45.815
+        ]
+      },
+      "properties": {
+        "place_id": "zagreb",
+        "name": "Zagreb",
+        "place_type": "city",
+        "year": 1941,
+        "jewish_population": 6000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9819,
+          45.815
+        ]
+      },
+      "properties": {
+        "place_id": "zagreb",
+        "name": "Zagreb",
+        "place_type": "city",
+        "year": 1942,
+        "jewish_population": 1000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9819,
+          45.815
+        ]
+      },
+      "properties": {
+        "place_id": "zagreb",
+        "name": "Zagreb",
+        "place_type": "city",
+        "year": 1943,
+        "jewish_population": 200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9819,
+          45.815
+        ]
+      },
+      "properties": {
+        "place_id": "zagreb",
+        "name": "Zagreb",
+        "place_type": "city",
+        "year": 1944,
+        "jewish_population": 100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9819,
+          45.815
+        ]
+      },
+      "properties": {
+        "place_id": "zagreb",
+        "name": "Zagreb",
+        "place_type": "city",
+        "year": 1945,
+        "jewish_population": 1500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4489,
+          44.7866
+        ]
+      },
+      "properties": {
+        "place_id": "belgrade",
+        "name": "Belgrade",
+        "place_type": "city",
+        "year": 1933,
+        "jewish_population": 8000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4489,
+          44.7866
+        ]
+      },
+      "properties": {
+        "place_id": "belgrade",
+        "name": "Belgrade",
+        "place_type": "city",
+        "year": 1935,
+        "jewish_population": 8500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4489,
+          44.7866
+        ]
+      },
+      "properties": {
+        "place_id": "belgrade",
+        "name": "Belgrade",
+        "place_type": "city",
+        "year": 1937,
+        "jewish_population": 9000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4489,
+          44.7866
+        ]
+      },
+      "properties": {
+        "place_id": "belgrade",
+        "name": "Belgrade",
+        "place_type": "city",
+        "year": 1938,
+        "jewish_population": 9500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4489,
+          44.7866
+        ]
+      },
+      "properties": {
+        "place_id": "belgrade",
+        "name": "Belgrade",
+        "place_type": "city",
+        "year": 1939,
+        "jewish_population": 10000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4489,
+          44.7866
+        ]
+      },
+      "properties": {
+        "place_id": "belgrade",
+        "name": "Belgrade",
+        "place_type": "city",
+        "year": 1940,
+        "jewish_population": 10000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4489,
+          44.7866
+        ]
+      },
+      "properties": {
+        "place_id": "belgrade",
+        "name": "Belgrade",
+        "place_type": "city",
+        "year": 1941,
+        "jewish_population": 3000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4489,
+          44.7866
+        ]
+      },
+      "properties": {
+        "place_id": "belgrade",
+        "name": "Belgrade",
+        "place_type": "city",
+        "year": 1942,
+        "jewish_population": 500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4489,
+          44.7866
+        ]
+      },
+      "properties": {
+        "place_id": "belgrade",
+        "name": "Belgrade",
+        "place_type": "city",
+        "year": 1943,
+        "jewish_population": 100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4489,
+          44.7866
+        ]
+      },
+      "properties": {
+        "place_id": "belgrade",
+        "name": "Belgrade",
+        "place_type": "city",
+        "year": 1944,
+        "jewish_population": 50
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4489,
+          44.7866
+        ]
+      },
+      "properties": {
+        "place_id": "belgrade",
+        "name": "Belgrade",
+        "place_type": "city",
+        "year": 1945,
+        "jewish_population": 1000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4964,
+          41.9028
+        ]
+      },
+      "properties": {
+        "place_id": "rome",
+        "name": "Rome",
+        "place_type": "city",
+        "year": 1933,
+        "jewish_population": 11000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4964,
+          41.9028
+        ]
+      },
+      "properties": {
+        "place_id": "rome",
+        "name": "Rome",
+        "place_type": "city",
+        "year": 1935,
+        "jewish_population": 11000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4964,
+          41.9028
+        ]
+      },
+      "properties": {
+        "place_id": "rome",
+        "name": "Rome",
+        "place_type": "city",
+        "year": 1937,
+        "jewish_population": 11000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4964,
+          41.9028
+        ]
+      },
+      "properties": {
+        "place_id": "rome",
+        "name": "Rome",
+        "place_type": "city",
+        "year": 1938,
+        "jewish_population": 11000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4964,
+          41.9028
+        ]
+      },
+      "properties": {
+        "place_id": "rome",
+        "name": "Rome",
+        "place_type": "city",
+        "year": 1939,
+        "jewish_population": 11000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4964,
+          41.9028
+        ]
+      },
+      "properties": {
+        "place_id": "rome",
+        "name": "Rome",
+        "place_type": "city",
+        "year": 1940,
+        "jewish_population": 11000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4964,
+          41.9028
+        ]
+      },
+      "properties": {
+        "place_id": "rome",
+        "name": "Rome",
+        "place_type": "city",
+        "year": 1941,
+        "jewish_population": 11000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4964,
+          41.9028
+        ]
+      },
+      "properties": {
+        "place_id": "rome",
+        "name": "Rome",
+        "place_type": "city",
+        "year": 1942,
+        "jewish_population": 11000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4964,
+          41.9028
+        ]
+      },
+      "properties": {
+        "place_id": "rome",
+        "name": "Rome",
+        "place_type": "city",
+        "year": 1943,
+        "jewish_population": 7000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4964,
+          41.9028
+        ]
+      },
+      "properties": {
+        "place_id": "rome",
+        "name": "Rome",
+        "place_type": "city",
+        "year": 1944,
+        "jewish_population": 5000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4964,
+          41.9028
+        ]
+      },
+      "properties": {
+        "place_id": "rome",
+        "name": "Rome",
+        "place_type": "city",
+        "year": 1945,
+        "jewish_population": 8000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683,
+          55.6761
+        ]
+      },
+      "properties": {
+        "place_id": "copenhagen",
+        "name": "Copenhagen",
+        "place_type": "city",
+        "year": 1933,
+        "jewish_population": 6000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683,
+          55.6761
+        ]
+      },
+      "properties": {
+        "place_id": "copenhagen",
+        "name": "Copenhagen",
+        "place_type": "city",
+        "year": 1935,
+        "jewish_population": 6500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683,
+          55.6761
+        ]
+      },
+      "properties": {
+        "place_id": "copenhagen",
+        "name": "Copenhagen",
+        "place_type": "city",
+        "year": 1937,
+        "jewish_population": 7000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683,
+          55.6761
+        ]
+      },
+      "properties": {
+        "place_id": "copenhagen",
+        "name": "Copenhagen",
+        "place_type": "city",
+        "year": 1938,
+        "jewish_population": 7500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683,
+          55.6761
+        ]
+      },
+      "properties": {
+        "place_id": "copenhagen",
+        "name": "Copenhagen",
+        "place_type": "city",
+        "year": 1939,
+        "jewish_population": 8000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683,
+          55.6761
+        ]
+      },
+      "properties": {
+        "place_id": "copenhagen",
+        "name": "Copenhagen",
+        "place_type": "city",
+        "year": 1940,
+        "jewish_population": 8000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683,
+          55.6761
+        ]
+      },
+      "properties": {
+        "place_id": "copenhagen",
+        "name": "Copenhagen",
+        "place_type": "city",
+        "year": 1941,
+        "jewish_population": 8000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683,
+          55.6761
+        ]
+      },
+      "properties": {
+        "place_id": "copenhagen",
+        "name": "Copenhagen",
+        "place_type": "city",
+        "year": 1942,
+        "jewish_population": 8000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683,
+          55.6761
+        ]
+      },
+      "properties": {
+        "place_id": "copenhagen",
+        "name": "Copenhagen",
+        "place_type": "city",
+        "year": 1943,
+        "jewish_population": 500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683,
+          55.6761
+        ]
+      },
+      "properties": {
+        "place_id": "copenhagen",
+        "name": "Copenhagen",
+        "place_type": "city",
+        "year": 1944,
+        "jewish_population": 400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683,
+          55.6761
+        ]
+      },
+      "properties": {
+        "place_id": "copenhagen",
+        "name": "Copenhagen",
+        "place_type": "city",
+        "year": 1945,
+        "jewish_population": 7000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7522,
+          59.9139
+        ]
+      },
+      "properties": {
+        "place_id": "oslo",
+        "name": "Oslo",
+        "place_type": "city",
+        "year": 1933,
+        "jewish_population": 1400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7522,
+          59.9139
+        ]
+      },
+      "properties": {
+        "place_id": "oslo",
+        "name": "Oslo",
+        "place_type": "city",
+        "year": 1935,
+        "jewish_population": 1500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7522,
+          59.9139
+        ]
+      },
+      "properties": {
+        "place_id": "oslo",
+        "name": "Oslo",
+        "place_type": "city",
+        "year": 1937,
+        "jewish_population": 1600
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7522,
+          59.9139
+        ]
+      },
+      "properties": {
+        "place_id": "oslo",
+        "name": "Oslo",
+        "place_type": "city",
+        "year": 1938,
+        "jewish_population": 1700
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7522,
+          59.9139
+        ]
+      },
+      "properties": {
+        "place_id": "oslo",
+        "name": "Oslo",
+        "place_type": "city",
+        "year": 1939,
+        "jewish_population": 1800
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7522,
+          59.9139
+        ]
+      },
+      "properties": {
+        "place_id": "oslo",
+        "name": "Oslo",
+        "place_type": "city",
+        "year": 1940,
+        "jewish_population": 1800
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7522,
+          59.9139
+        ]
+      },
+      "properties": {
+        "place_id": "oslo",
+        "name": "Oslo",
+        "place_type": "city",
+        "year": 1941,
+        "jewish_population": 1500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7522,
+          59.9139
+        ]
+      },
+      "properties": {
+        "place_id": "oslo",
+        "name": "Oslo",
+        "place_type": "city",
+        "year": 1942,
+        "jewish_population": 500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7522,
+          59.9139
+        ]
+      },
+      "properties": {
+        "place_id": "oslo",
+        "name": "Oslo",
+        "place_type": "city",
+        "year": 1943,
+        "jewish_population": 100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7522,
+          59.9139
+        ]
+      },
+      "properties": {
+        "place_id": "oslo",
+        "name": "Oslo",
+        "place_type": "city",
+        "year": 1944,
+        "jewish_population": 50
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7522,
+          59.9139
+        ]
+      },
+      "properties": {
+        "place_id": "oslo",
+        "name": "Oslo",
+        "place_type": "city",
+        "year": 1945,
+        "jewish_population": 800
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.995,
+          52.246
+        ]
+      },
+      "properties": {
+        "place_id": "warsaw_ghetto",
+        "name": "Warsaw Ghetto",
+        "place_type": "ghetto",
+        "year": 1940,
+        "jewish_population": 380000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.995,
+          52.246
+        ]
+      },
+      "properties": {
+        "place_id": "warsaw_ghetto",
+        "name": "Warsaw Ghetto",
+        "place_type": "ghetto",
+        "year": 1941,
+        "jewish_population": 450000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.995,
+          52.246
+        ]
+      },
+      "properties": {
+        "place_id": "warsaw_ghetto",
+        "name": "Warsaw Ghetto",
+        "place_type": "ghetto",
+        "year": 1942,
+        "jewish_population": 60000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.455,
+          51.775
+        ]
+      },
+      "properties": {
+        "place_id": "lodz_ghetto",
+        "name": "Łódź Ghetto (Litzmannstadt)",
+        "place_type": "ghetto",
+        "year": 1940,
+        "jewish_population": 160000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.455,
+          51.775
+        ]
+      },
+      "properties": {
+        "place_id": "lodz_ghetto",
+        "name": "Łódź Ghetto (Litzmannstadt)",
+        "place_type": "ghetto",
+        "year": 1941,
+        "jewish_population": 160000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.455,
+          51.775
+        ]
+      },
+      "properties": {
+        "place_id": "lodz_ghetto",
+        "name": "Łódź Ghetto (Litzmannstadt)",
+        "place_type": "ghetto",
+        "year": 1942,
+        "jewish_population": 90000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.455,
+          51.775
+        ]
+      },
+      "properties": {
+        "place_id": "lodz_ghetto",
+        "name": "Łódź Ghetto (Litzmannstadt)",
+        "place_type": "ghetto",
+        "year": 1943,
+        "jewish_population": 80000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.955,
+          50.045
+        ]
+      },
+      "properties": {
+        "place_id": "krakow_ghetto",
+        "name": "Kraków Ghetto",
+        "place_type": "ghetto",
+        "year": 1941,
+        "jewish_population": 18000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.955,
+          50.045
+        ]
+      },
+      "properties": {
+        "place_id": "krakow_ghetto",
+        "name": "Kraków Ghetto",
+        "place_type": "ghetto",
+        "year": 1942,
+        "jewish_population": 6000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.15,
+          50.511
+        ]
+      },
+      "properties": {
+        "place_id": "theresienstadt",
+        "name": "Theresienstadt / Terezín",
+        "place_type": "ghetto",
+        "year": 1941,
+        "jewish_population": 7000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.15,
+          50.511
+        ]
+      },
+      "properties": {
+        "place_id": "theresienstadt",
+        "name": "Theresienstadt / Terezín",
+        "place_type": "ghetto",
+        "year": 1942,
+        "jewish_population": 58000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.15,
+          50.511
+        ]
+      },
+      "properties": {
+        "place_id": "theresienstadt",
+        "name": "Theresienstadt / Terezín",
+        "place_type": "ghetto",
+        "year": 1943,
+        "jewish_population": 40000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.15,
+          50.511
+        ]
+      },
+      "properties": {
+        "place_id": "theresienstadt",
+        "name": "Theresienstadt / Terezín",
+        "place_type": "ghetto",
+        "year": 1944,
+        "jewish_population": 30000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.15,
+          50.511
+        ]
+      },
+      "properties": {
+        "place_id": "theresienstadt",
+        "name": "Theresienstadt / Terezín",
+        "place_type": "ghetto",
+        "year": 1945,
+        "jewish_population": 17000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.06,
+          47.495
+        ]
+      },
+      "properties": {
+        "place_id": "budapest_ghetto",
+        "name": "Budapest Ghetto",
+        "place_type": "ghetto",
+        "year": 1944,
+        "jewish_population": 70000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.89,
+          54.915
+        ]
+      },
+      "properties": {
+        "place_id": "kovno_ghetto",
+        "name": "Kovno Ghetto",
+        "place_type": "ghetto",
+        "year": 1941,
+        "jewish_population": 30000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.89,
+          54.915
+        ]
+      },
+      "properties": {
+        "place_id": "kovno_ghetto",
+        "name": "Kovno Ghetto",
+        "place_type": "ghetto",
+        "year": 1942,
+        "jewish_population": 16000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.89,
+          54.915
+        ]
+      },
+      "properties": {
+        "place_id": "kovno_ghetto",
+        "name": "Kovno Ghetto",
+        "place_type": "ghetto",
+        "year": 1943,
+        "jewish_population": 8000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.13,
+          56.94
+        ]
+      },
+      "properties": {
+        "place_id": "riga_ghetto",
+        "name": "Riga Ghetto",
+        "place_type": "ghetto",
+        "year": 1941,
+        "jewish_population": 30000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.13,
+          56.94
+        ]
+      },
+      "properties": {
+        "place_id": "riga_ghetto",
+        "name": "Riga Ghetto",
+        "place_type": "ghetto",
+        "year": 1942,
+        "jewish_population": 5000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.545,
+          53.905
+        ]
+      },
+      "properties": {
+        "place_id": "minsk_ghetto",
+        "name": "Minsk Ghetto",
+        "place_type": "ghetto",
+        "year": 1941,
+        "jewish_population": 80000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.545,
+          53.905
+        ]
+      },
+      "properties": {
+        "place_id": "minsk_ghetto",
+        "name": "Minsk Ghetto",
+        "place_type": "ghetto",
+        "year": 1942,
+        "jewish_population": 10000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.445,
+          48.923
+        ]
+      },
+      "properties": {
+        "place_id": "drancy",
+        "name": "Drancy internment camp",
+        "place_type": "deportation_hub",
+        "year": 1941,
+        "jewish_population": 4000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.445,
+          48.923
+        ]
+      },
+      "properties": {
+        "place_id": "drancy",
+        "name": "Drancy internment camp",
+        "place_type": "deportation_hub",
+        "year": 1942,
+        "jewish_population": 5000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.445,
+          48.923
+        ]
+      },
+      "properties": {
+        "place_id": "drancy",
+        "name": "Drancy internment camp",
+        "place_type": "deportation_hub",
+        "year": 1943,
+        "jewish_population": 4000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.445,
+          48.923
+        ]
+      },
+      "properties": {
+        "place_id": "drancy",
+        "name": "Drancy internment camp",
+        "place_type": "deportation_hub",
+        "year": 1944,
+        "jewish_population": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.607,
+          52.917
+        ]
+      },
+      "properties": {
+        "place_id": "westerbork",
+        "name": "Westerbork transit camp",
+        "place_type": "deportation_hub",
+        "year": 1939,
+        "jewish_population": 1000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.607,
+          52.917
+        ]
+      },
+      "properties": {
+        "place_id": "westerbork",
+        "name": "Westerbork transit camp",
+        "place_type": "deportation_hub",
+        "year": 1940,
+        "jewish_population": 1100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.607,
+          52.917
+        ]
+      },
+      "properties": {
+        "place_id": "westerbork",
+        "name": "Westerbork transit camp",
+        "place_type": "deportation_hub",
+        "year": 1941,
+        "jewish_population": 1500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.607,
+          52.917
+        ]
+      },
+      "properties": {
+        "place_id": "westerbork",
+        "name": "Westerbork transit camp",
+        "place_type": "deportation_hub",
+        "year": 1942,
+        "jewish_population": 10000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.607,
+          52.917
+        ]
+      },
+      "properties": {
+        "place_id": "westerbork",
+        "name": "Westerbork transit camp",
+        "place_type": "deportation_hub",
+        "year": 1943,
+        "jewish_population": 10000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.607,
+          52.917
+        ]
+      },
+      "properties": {
+        "place_id": "westerbork",
+        "name": "Westerbork transit camp",
+        "place_type": "deportation_hub",
+        "year": 1944,
+        "jewish_population": 5000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.607,
+          52.917
+        ]
+      },
+      "properties": {
+        "place_id": "westerbork",
+        "name": "Westerbork transit camp",
+        "place_type": "deportation_hub",
+        "year": 1945,
+        "jewish_population": 900
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.478,
+          51.028
+        ]
+      },
+      "properties": {
+        "place_id": "malines",
+        "name": "Mechelen / Malines transit camp",
+        "place_type": "deportation_hub",
+        "year": 1942,
+        "jewish_population": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.478,
+          51.028
+        ]
+      },
+      "properties": {
+        "place_id": "malines",
+        "name": "Mechelen / Malines transit camp",
+        "place_type": "deportation_hub",
+        "year": 1943,
+        "jewish_population": 1500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.478,
+          51.028
+        ]
+      },
+      "properties": {
+        "place_id": "malines",
+        "name": "Mechelen / Malines transit camp",
+        "place_type": "deportation_hub",
+        "year": 1944,
+        "jewish_population": 500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.988,
+          52.252
+        ]
+      },
+      "properties": {
+        "place_id": "umschlagsplatz_warsaw",
+        "name": "Umschlagplatz Warsaw",
+        "place_type": "deportation_hub",
+        "year": 1942,
+        "jewish_population": 15000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.988,
+          52.252
+        ]
+      },
+      "properties": {
+        "place_id": "umschlagsplatz_warsaw",
+        "name": "Umschlagplatz Warsaw",
+        "place_type": "deportation_hub",
+        "year": 1943,
+        "jewish_population": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.47,
+          51.8
+        ]
+      },
+      "properties": {
+        "place_id": "kolejowa_lodz",
+        "name": "Łódź Radegast station",
+        "place_type": "deportation_hub",
+        "year": 1941,
+        "jewish_population": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.47,
+          51.8
+        ]
+      },
+      "properties": {
+        "place_id": "kolejowa_lodz",
+        "name": "Łódź Radegast station",
+        "place_type": "deportation_hub",
+        "year": 1942,
+        "jewish_population": 5000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.47,
+          51.8
+        ]
+      },
+      "properties": {
+        "place_id": "kolejowa_lodz",
+        "name": "Łódź Radegast station",
+        "place_type": "deportation_hub",
+        "year": 1943,
+        "jewish_population": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.47,
+          51.8
+        ]
+      },
+      "properties": {
+        "place_id": "kolejowa_lodz",
+        "name": "Łódź Radegast station",
+        "place_type": "deportation_hub",
+        "year": 1944,
+        "jewish_population": 8000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1783,
+          50.0359
+        ]
+      },
+      "properties": {
+        "place_id": "auschwitz",
+        "name": "Auschwitz-Birkenau",
+        "place_type": "extermination_site",
+        "year": 1940,
+        "jewish_population": 1000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1783,
+          50.0359
+        ]
+      },
+      "properties": {
+        "place_id": "auschwitz",
+        "name": "Auschwitz-Birkenau",
+        "place_type": "extermination_site",
+        "year": 1941,
+        "jewish_population": 10000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1783,
+          50.0359
+        ]
+      },
+      "properties": {
+        "place_id": "auschwitz",
+        "name": "Auschwitz-Birkenau",
+        "place_type": "extermination_site",
+        "year": 1942,
+        "jewish_population": 40000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1783,
+          50.0359
+        ]
+      },
+      "properties": {
+        "place_id": "auschwitz",
+        "name": "Auschwitz-Birkenau",
+        "place_type": "extermination_site",
+        "year": 1943,
+        "jewish_population": 80000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1783,
+          50.0359
+        ]
+      },
+      "properties": {
+        "place_id": "auschwitz",
+        "name": "Auschwitz-Birkenau",
+        "place_type": "extermination_site",
+        "year": 1944,
+        "jewish_population": 90000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1783,
+          50.0359
+        ]
+      },
+      "properties": {
+        "place_id": "auschwitz",
+        "name": "Auschwitz-Birkenau",
+        "place_type": "extermination_site",
+        "year": 1945,
+        "jewish_population": 7000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0531,
+          52.6316
+        ]
+      },
+      "properties": {
+        "place_id": "treblinka",
+        "name": "Treblinka",
+        "place_type": "extermination_site",
+        "year": 1942,
+        "jewish_population": 1000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0531,
+          52.6316
+        ]
+      },
+      "properties": {
+        "place_id": "treblinka",
+        "name": "Treblinka",
+        "place_type": "extermination_site",
+        "year": 1943,
+        "jewish_population": 500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4575,
+          50.3717
+        ]
+      },
+      "properties": {
+        "place_id": "belzec",
+        "name": "Bełżec",
+        "place_type": "extermination_site",
+        "year": 1942,
+        "jewish_population": 500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.595,
+          51.4467
+        ]
+      },
+      "properties": {
+        "place_id": "sobibor",
+        "name": "Sobibór",
+        "place_type": "extermination_site",
+        "year": 1942,
+        "jewish_population": 600
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.595,
+          51.4467
+        ]
+      },
+      "properties": {
+        "place_id": "sobibor",
+        "name": "Sobibór",
+        "place_type": "extermination_site",
+        "year": 1943,
+        "jewish_population": 600
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.723,
+          52.154
+        ]
+      },
+      "properties": {
+        "place_id": "chelmno",
+        "name": "Chełmno / Kulmhof",
+        "place_type": "extermination_site",
+        "year": 1941,
+        "jewish_population": 100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.723,
+          52.154
+        ]
+      },
+      "properties": {
+        "place_id": "chelmno",
+        "name": "Chełmno / Kulmhof",
+        "place_type": "extermination_site",
+        "year": 1942,
+        "jewish_population": 200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.723,
+          52.154
+        ]
+      },
+      "properties": {
+        "place_id": "chelmno",
+        "name": "Chełmno / Kulmhof",
+        "place_type": "extermination_site",
+        "year": 1944,
+        "jewish_population": 100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.6,
+          51.222
+        ]
+      },
+      "properties": {
+        "place_id": "majdanek",
+        "name": "Majdanek",
+        "place_type": "extermination_site",
+        "year": 1941,
+        "jewish_population": 5000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.6,
+          51.222
+        ]
+      },
+      "properties": {
+        "place_id": "majdanek",
+        "name": "Majdanek",
+        "place_type": "extermination_site",
+        "year": 1942,
+        "jewish_population": 15000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.6,
+          51.222
+        ]
+      },
+      "properties": {
+        "place_id": "majdanek",
+        "name": "Majdanek",
+        "place_type": "extermination_site",
+        "year": 1943,
+        "jewish_population": 20000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.907,
+          52.758
+        ]
+      },
+      "properties": {
+        "place_id": "bergen_belsens",
+        "name": "Bergen-Belsen",
+        "place_type": "deportation_hub",
+        "year": 1943,
+        "jewish_population": 4000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.907,
+          52.758
+        ]
+      },
+      "properties": {
+        "place_id": "bergen_belsens",
+        "name": "Bergen-Belsen",
+        "place_type": "deportation_hub",
+        "year": 1944,
+        "jewish_population": 15000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.907,
+          52.758
+        ]
+      },
+      "properties": {
+        "place_id": "bergen_belsens",
+        "name": "Bergen-Belsen",
+        "place_type": "deportation_hub",
+        "year": 1945,
+        "jewish_population": 60000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4683,
+          48.2699
+        ]
+      },
+      "properties": {
+        "place_id": "dachau",
+        "name": "Dachau",
+        "place_type": "deportation_hub",
+        "year": 1933,
+        "jewish_population": 2000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4683,
+          48.2699
+        ]
+      },
+      "properties": {
+        "place_id": "dachau",
+        "name": "Dachau",
+        "place_type": "deportation_hub",
+        "year": 1935,
+        "jewish_population": 2500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4683,
+          48.2699
+        ]
+      },
+      "properties": {
+        "place_id": "dachau",
+        "name": "Dachau",
+        "place_type": "deportation_hub",
+        "year": 1937,
+        "jewish_population": 3000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4683,
+          48.2699
+        ]
+      },
+      "properties": {
+        "place_id": "dachau",
+        "name": "Dachau",
+        "place_type": "deportation_hub",
+        "year": 1938,
+        "jewish_population": 10000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4683,
+          48.2699
+        ]
+      },
+      "properties": {
+        "place_id": "dachau",
+        "name": "Dachau",
+        "place_type": "deportation_hub",
+        "year": 1939,
+        "jewish_population": 4000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4683,
+          48.2699
+        ]
+      },
+      "properties": {
+        "place_id": "dachau",
+        "name": "Dachau",
+        "place_type": "deportation_hub",
+        "year": 1940,
+        "jewish_population": 5000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4683,
+          48.2699
+        ]
+      },
+      "properties": {
+        "place_id": "dachau",
+        "name": "Dachau",
+        "place_type": "deportation_hub",
+        "year": 1941,
+        "jewish_population": 6000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4683,
+          48.2699
+        ]
+      },
+      "properties": {
+        "place_id": "dachau",
+        "name": "Dachau",
+        "place_type": "deportation_hub",
+        "year": 1942,
+        "jewish_population": 8000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4683,
+          48.2699
+        ]
+      },
+      "properties": {
+        "place_id": "dachau",
+        "name": "Dachau",
+        "place_type": "deportation_hub",
+        "year": 1943,
+        "jewish_population": 12000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4683,
+          48.2699
+        ]
+      },
+      "properties": {
+        "place_id": "dachau",
+        "name": "Dachau",
+        "place_type": "deportation_hub",
+        "year": 1944,
+        "jewish_population": 22000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4683,
+          48.2699
+        ]
+      },
+      "properties": {
+        "place_id": "dachau",
+        "name": "Dachau",
+        "place_type": "deportation_hub",
+        "year": 1945,
+        "jewish_population": 30000
+      }
+    }
+  ]
+}

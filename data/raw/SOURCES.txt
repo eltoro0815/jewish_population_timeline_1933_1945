@@ -1,0 +1,14 @@
+Primary reference classes (aggregated secondary estimates):
+- USHMM Holocaust Encyclopedia (community and camp pages)
+- Yad Vashem / Encyclopedia of Camps and Ghettos (USHMM / Indiana UP)
+- Pre-war Polish, German, Austrian, Hungarian, Dutch, Greek censuses / community tallies
+- Ghetto population registries (Warsaw, Łódź, Kovno, Riga, Minsk, Theresienstadt)
+- Deportation chronologies for Drancy, Westerbork, Mechelen, Radegast, Umschlagplatz
+
+Notes:
+- City and ghetto series can overlap spatially for the same metropolitan area;
+  visualization scripts may filter by place_type.
+- Camp "population" is estimated prisoner presence at year-end / milestone,
+  not cumulative murders.
+- Killing sites without residential holding (Babi Yar, Ponary) are geocoded
+  with zero residential population; the urban drop is in the city series.

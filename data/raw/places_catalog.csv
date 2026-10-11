@@ -1,0 +1,54 @@
+place_id,name,name_local,country,latitude,longitude,place_type
+warsaw,Warsaw,Warszawa,Poland,52.2297,21.0122,city
+lodz,Łódź,Łódź,Poland,51.7592,19.456,city
+krakow,Kraków,Kraków,Poland,50.0647,19.945,city
+bialystok,Białystok,Białystok,Poland,53.1325,23.1688,city
+lublin,Lublin,Lublin,Poland,51.2465,22.5684,city
+lvov,Lwów / Lviv,Lwów,Poland / USSR,49.8397,24.0297,city
+vilnius,Vilnius,Wilno,Lithuania / Poland,54.6872,25.2797,city
+kaunas,Kaunas,Kaunas,Lithuania,54.8985,23.9036,city
+berlin,Berlin,Berlin,Germany,52.52,13.405,city
+frankfurt,Frankfurt am Main,Frankfurt,Germany,50.1109,8.6821,city
+munich,Munich,München,Germany,48.1351,11.582,city
+vienna,Vienna,Wien,Austria,48.2082,16.3738,city
+prague,Prague,Praha,Czechoslovakia,50.0755,14.4378,city
+budapest,Budapest,Budapest,Hungary,47.4979,19.0402,city
+kiev,Kiev,Київ,USSR / Ukraine,50.4501,30.5234,city
+odessa,Odessa,Одеса,USSR / Ukraine,46.4825,30.7233,city
+minsk,Minsk,Мінск,USSR / Belarus,53.9006,27.559,city
+riga,Riga,Rīga,Latvia,56.9496,24.1052,city
+thessaloniki,Thessaloniki,Θεσσαλονίκη,Greece,40.6401,22.9444,city
+amsterdam,Amsterdam,Amsterdam,Netherlands,52.3676,4.9041,city
+paris,Paris,Paris,France,48.8566,2.3522,city
+brussels,Brussels,Bruxelles,Belgium,50.8503,4.3517,city
+bucharest,Bucharest,București,Romania,44.4268,26.1025,city
+salonika_port_note,Salonika Baron Hirsch camp area,Θεσσαλονίκη (Baron Hirsch),Greece,40.645,22.92,deportation_hub
+antwerp,Antwerp,Antwerpen,Belgium,51.2194,4.4025,city
+zagreb,Zagreb,Zagreb,Yugoslavia / Croatia,45.815,15.9819,city
+belgrade,Belgrade,Beograd,Yugoslavia,44.7866,20.4489,city
+rome,Rome,Roma,Italy,41.9028,12.4964,city
+copenhagen,Copenhagen,København,Denmark,55.6761,12.5683,city
+oslo,Oslo,Oslo,Norway,59.9139,10.7522,city
+warsaw_ghetto,Warsaw Ghetto,Getto warszawskie,Poland,52.246,20.995,ghetto
+lodz_ghetto,Łódź Ghetto (Litzmannstadt),Getto łódzkie,Poland,51.775,19.455,ghetto
+krakow_ghetto,Kraków Ghetto,Getto krakowskie,Poland,50.045,19.955,ghetto
+theresienstadt,Theresienstadt / Terezín,Terezín,Czechoslovakia,50.511,14.15,ghetto
+budapest_ghetto,Budapest Ghetto,Budapesti gettó,Hungary,47.495,19.06,ghetto
+kovno_ghetto,Kovno Ghetto,Kauno getas,Lithuania,54.915,23.89,ghetto
+riga_ghetto,Riga Ghetto,Rīgas geto,Latvia,56.94,24.13,ghetto
+minsk_ghetto,Minsk Ghetto,Мінскае гета,USSR / Belarus,53.905,27.545,ghetto
+drancy,Drancy internment camp,Drancy,France,48.923,2.445,deportation_hub
+westerbork,Westerbork transit camp,Westerbork,Netherlands,52.917,6.607,deportation_hub
+malines,Mechelen / Malines transit camp,Mechelen (Dossin),Belgium,51.028,4.478,deportation_hub
+umschlagsplatz_warsaw,Umschlagplatz Warsaw,Umschlagplatz,Poland,52.252,20.988,deportation_hub
+kolejowa_lodz,Łódź Radegast station,Stacja Radegast,Poland,51.8,19.47,deportation_hub
+auschwitz,Auschwitz-Birkenau,Oświęcim,Poland,50.0359,19.1783,extermination_site
+treblinka,Treblinka,Treblinka,Poland,52.6316,22.0531,extermination_site
+belzec,Bełżec,Bełżec,Poland,50.3717,23.4575,extermination_site
+sobibor,Sobibór,Sobibór,Poland,51.4467,23.595,extermination_site
+chelmno,Chełmno / Kulmhof,Chełmno nad Nerem,Poland,52.154,18.723,extermination_site
+majdanek,Majdanek,Majdanek,Poland,51.222,22.6,extermination_site
+babyn_yar,Babi Yar,Бабин Яр,USSR / Ukraine,50.471,30.449,extermination_site
+ponary,Ponary / Paneriai,Paneriai,Lithuania,54.626,25.167,extermination_site
+bergen_belsens,Bergen-Belsen,Bergen-Belsen,Germany,52.758,9.907,deportation_hub
+dachau,Dachau,Dachau,Germany,48.2699,11.4683,deportation_hub

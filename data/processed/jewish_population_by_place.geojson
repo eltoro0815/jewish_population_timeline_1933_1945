@@ -1,0 +1,1595 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0122,
+          52.2297
+        ]
+      },
+      "properties": {
+        "place_id": "warsaw",
+        "name": "Warsaw",
+        "name_local": "Warszawa",
+        "country": "Poland",
+        "place_type": "city",
+        "population_by_year": {
+          "1933": 352000,
+          "1935": 360000,
+          "1937": 370000,
+          "1938": 375000,
+          "1939": 380000,
+          "1940": 380000,
+          "1941": 450000,
+          "1942": 70000,
+          "1943": 5000,
+          "1944": 0,
+          "1945": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.456,
+          51.7592
+        ]
+      },
+      "properties": {
+        "place_id": "lodz",
+        "name": "Łódź",
+        "name_local": "Łódź",
+        "country": "Poland",
+        "place_type": "city",
+        "population_by_year": {
+          "1933": 202000,
+          "1935": 210000,
+          "1937": 220000,
+          "1938": 225000,
+          "1939": 233000,
+          "1940": 160000,
+          "1941": 160000,
+          "1942": 90000,
+          "1943": 80000,
+          "1944": 5000,
+          "1945": 877
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.945,
+          50.0647
+        ]
+      },
+      "properties": {
+        "place_id": "krakow",
+        "name": "Kraków",
+        "name_local": "Kraków",
+        "country": "Poland",
+        "place_type": "city",
+        "population_by_year": {
+          "1933": 56000,
+          "1935": 58000,
+          "1937": 60000,
+          "1938": 64000,
+          "1939": 68000,
+          "1940": 55000,
+          "1941": 20000,
+          "1942": 6000,
+          "1943": 0,
+          "1944": 0,
+          "1945": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1688,
+          53.1325
+        ]
+      },
+      "properties": {
+        "place_id": "bialystok",
+        "name": "Białystok",
+        "name_local": "Białystok",
+        "country": "Poland",
+        "place_type": "city",
+        "population_by_year": {
+          "1933": 39000,
+          "1935": 40000,
+          "1937": 42000,
+          "1938": 43000,
+          "1939": 50000,
+          "1940": 50000,
+          "1941": 50000,
+          "1942": 10000,
+          "1943": 0,
+          "1944": 0,
+          "1945": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5684,
+          51.2465
+        ]
+      },
+      "properties": {
+        "place_id": "lublin",
+        "name": "Lublin",
+        "name_local": "Lublin",
+        "country": "Poland",
+        "place_type": "city",
+        "population_by_year": {
+          "1933": 39000,
+          "1935": 40000,
+          "1937": 41000,
+          "1938": 42000,
+          "1939": 43000,
+          "1940": 40000,
+          "1941": 34000,
+          "1942": 2000,
+          "1943": 0,
+          "1944": 0,
+          "1945": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0297,
+          49.8397
+        ]
+      },
+      "properties": {
+        "place_id": "lvov",
+        "name": "Lwów / Lviv",
+        "name_local": "Lwów",
+        "country": "Poland / USSR",
+        "place_type": "city",
+        "population_by_year": {
+          "1933": 100000,
+          "1935": 105000,
+          "1937": 108000,
+          "1938": 110000,
+          "1939": 110000,
+          "1940": 150000,
+          "1941": 100000,
+          "1942": 20000,
+          "1943": 0,
+          "1944": 0,
+          "1945": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2797,
+          54.6872
+        ]
+      },
+      "properties": {
+        "place_id": "vilnius",
+        "name": "Vilnius",
+        "name_local": "Wilno",
+        "country": "Lithuania / Poland",
+        "place_type": "city",
+        "population_by_year": {
+          "1933": 55000,
+          "1935": 57000,
+          "1937": 58000,
+          "1938": 59000,
+          "1939": 60000,
+          "1940": 60000,
+          "1941": 40000,
+          "1942": 15000,
+          "1943": 2000,
+          "1944": 0,
+          "1945": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9036,
+          54.8985
+        ]
+      },
+      "properties": {
+        "place_id": "kaunas",
+        "name": "Kaunas",
+        "name_local": "Kaunas",
+        "country": "Lithuania",
+        "place_type": "city",
+        "population_by_year": {
+          "1933": 25000,
+          "1935": 27000,
+          "1937": 30000,
+          "1938": 35000,
+          "1939": 40000,
+          "1940": 40000,
+          "1941": 30000,
+          "1942": 16000,
+          "1943": 8000,
+          "1944": 0,
+          "1945": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.405,
+          52.52
+        ]
+      },
+      "properties": {
+        "place_id": "berlin",
+        "name": "Berlin",
+        "name_local": "Berlin",
+        "country": "Germany",
+        "place_type": "city",
+        "population_by_year": {
+          "1933": 160000,
+          "1935": 150000,
+          "1937": 140000,
+          "1938": 120000,
+          "1939": 95000,
+          "1940": 72000,
+          "1941": 60000,
+          "1942": 33000,
+          "1943": 5000,
+          "1944": 1500,
+          "1945": 7000
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6821,
+          50.1109
+        ]
+      },
+      "properties": {
+        "place_id": "frankfurt",
+        "name": "Frankfurt am Main",
+        "name_local": "Frankfurt",
+        "country": "Germany",
+        "place_type": "city",
+        "population_by_year": {
+          "1933": 26000,
+          "1935": 24000,
+          "1937": 22000,
+          "1938": 14000,
+          "1939": 10000,
+          "1940": 6000,
+          "1941": 3000,
+          "1942": 500,
+          "1943": 100,
+          "1944": 50,
+          "1945": 200
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.582,
+          48.1351
+        ]
+      },
+      "properties": {
+        "place_id": "munich",
+        "name": "Munich",
+        "name_local": "München",
+        "country": "Germany",
+        "place_type": "city",
+        "population_by_year": {
+          "1933": 9000,
+          "1935": 8000,
+          "1937": 7000,
+          "1938": 5000,
+          "1939": 4000,
+          "1940": 2500,
+          "1941": 1500,
+          "1942": 400,
+          "1943": 100,
+          "1944": 50,
+          "1945": 100
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3738,
+          48.2082
+        ]
+      },
+      "properties": {
+        "place_id": "vienna",
+        "name": "Vienna",
+        "name_local": "Wien",
+        "country": "Austria",
+        "place_type": "city",
+        "population_by_year": {
+          "1933": 176000,
+          "1935": 175000,
+          "1937": 170000,
+          "1938": 170000,
+          "1939": 66000,
+          "1940": 50000,
+          "1941": 45000,
+          "1942": 7000,
+          "1943": 1000,
+          "1944": 500,
+          "1945": 4000
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4378,
+          50.0755
+        ]
+      },
+      "properties": {
+        "place_id": "prague",
+        "name": "Prague",
+        "name_local": "Praha",
+        "country": "Czechoslovakia",
+        "place_type": "city",
+        "population_by_year": {
+          "1933": 35000,
+          "1935": 36000,
+          "1937": 38000,
+          "1938": 40000,
+          "1939": 45000,
+          "1940": 45000,
+          "1941": 40000,
+          "1942": 15000,
+          "1943": 3000,
+          "1944": 1000,
+          "1945": 3000
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0402,
+          47.4979
+        ]
+      },
+      "properties": {
+        "place_id": "budapest",
+        "name": "Budapest",
+        "name_local": "Budapest",
+        "country": "Hungary",
+        "place_type": "city",
+        "population_by_year": {
+          "1933": 200000,
+          "1935": 201000,
+          "1937": 205000,
+          "1938": 208000,
+          "1939": 210000,
+          "1940": 210000,
+          "1941": 200000,
+          "1942": 200000,
+          "1943": 200000,
+          "1944": 70000,
+          "1945": 100000
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5234,
+          50.4501
+        ]
+      },
+      "properties": {
+        "place_id": "kiev",
+        "name": "Kiev",
+        "name_local": "Київ",
+        "country": "USSR / Ukraine",
+        "place_type": "city",
+        "population_by_year": {
+          "1933": 140000,
+          "1935": 150000,
+          "1937": 160000,
+          "1938": 170000,
+          "1939": 175000,
+          "1940": 175000,
+          "1941": 20000,
+          "1942": 2000,
+          "1943": 0,
+          "1944": 0,
+          "1945": 5000
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7233,
+          46.4825
+        ]
+      },
+      "properties": {
+        "place_id": "odessa",
+        "name": "Odessa",
+        "name_local": "Одеса",
+        "country": "USSR / Ukraine",
+        "place_type": "city",
+        "population_by_year": {
+          "1933": 150000,
+          "1935": 155000,
+          "1937": 165000,
+          "1938": 170000,
+          "1939": 180000,
+          "1940": 180000,
+          "1941": 90000,
+          "1942": 20000,
+          "1943": 5000,
+          "1944": 0,
+          "1945": 10000
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.559,
+          53.9006
+        ]
+      },
+      "properties": {
+        "place_id": "minsk",
+        "name": "Minsk",
+        "name_local": "Мінск",
+        "country": "USSR / Belarus",
+        "place_type": "city",
+        "population_by_year": {
+          "1933": 55000,
+          "1935": 60000,
+          "1937": 65000,
+          "1938": 68000,
+          "1939": 71000,
+          "1940": 80000,
+          "1941": 80000,
+          "1942": 10000,
+          "1943": 0,
+          "1944": 0,
+          "1945": 2000
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1052,
+          56.9496
+        ]
+      },
+      "properties": {
+        "place_id": "riga",
+        "name": "Riga",
+        "name_local": "Rīga",
+        "country": "Latvia",
+        "place_type": "city",
+        "population_by_year": {
+          "1933": 42000,
+          "1935": 43000,
+          "1937": 43000,
+          "1938": 43000,
+          "1939": 43000,
+          "1940": 43000,
+          "1941": 30000,
+          "1942": 5000,
+          "1943": 1000,
+          "1944": 0,
+          "1945": 150
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9444,
+          40.6401
+        ]
+      },
+      "properties": {
+        "place_id": "thessaloniki",
+        "name": "Thessaloniki",
+        "name_local": "Θεσσαλονίκη",
+        "country": "Greece",
+        "place_type": "city",
+        "population_by_year": {
+          "1933": 50000,
+          "1935": 52000,
+          "1937": 54000,
+          "1938": 55000,
+          "1939": 56000,
+          "1940": 56000,
+          "1941": 50000,
+          "1942": 48000,
+          "1943": 2000,
+          "1944": 500,
+          "1945": 2000
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9041,
+          52.3676
+        ]
+      },
+      "properties": {
+        "place_id": "amsterdam",
+        "name": "Amsterdam",
+        "name_local": "Amsterdam",
+        "country": "Netherlands",
+        "place_type": "city",
+        "population_by_year": {
+          "1933": 65000,
+          "1935": 68000,
+          "1937": 72000,
+          "1938": 75000,
+          "1939": 80000,
+          "1940": 79000,
+          "1941": 75000,
+          "1942": 50000,
+          "1943": 15000,
+          "1944": 5000,
+          "1945": 10000
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522,
+          48.8566
+        ]
+      },
+      "properties": {
+        "place_id": "paris",
+        "name": "Paris",
+        "name_local": "Paris",
+        "country": "France",
+        "place_type": "city",
+        "population_by_year": {
+          "1933": 150000,
+          "1935": 160000,
+          "1937": 170000,
+          "1938": 180000,
+          "1939": 200000,
+          "1940": 150000,
+          "1941": 120000,
+          "1942": 80000,
+          "1943": 50000,
+          "1944": 30000,
+          "1945": 50000
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3517,
+          50.8503
+        ]
+      },
+      "properties": {
+        "place_id": "brussels",
+        "name": "Brussels",
+        "name_local": "Bruxelles",
+        "country": "Belgium",
+        "place_type": "city",
+        "population_by_year": {
+          "1933": 30000,
+          "1935": 32000,
+          "1937": 35000,
+          "1938": 40000,
+          "1939": 45000,
+          "1940": 40000,
+          "1941": 35000,
+          "1942": 20000,
+          "1943": 8000,
+          "1944": 3000,
+          "1945": 15000
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1025,
+          44.4268
+        ]
+      },
+      "properties": {
+        "place_id": "bucharest",
+        "name": "Bucharest",
+        "name_local": "București",
+        "country": "Romania",
+        "place_type": "city",
+        "population_by_year": {
+          "1933": 70000,
+          "1935": 72000,
+          "1937": 74000,
+          "1938": 76000,
+          "1939": 80000,
+          "1940": 95000,
+          "1941": 100000,
+          "1942": 100000,
+          "1943": 100000,
+          "1944": 100000,
+          "1945": 120000
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.92,
+          40.645
+        ]
+      },
+      "properties": {
+        "place_id": "salonika_port_note",
+        "name": "Salonika Baron Hirsch camp area",
+        "name_local": "Θεσσαλονίκη (Baron Hirsch)",
+        "country": "Greece",
+        "place_type": "deportation_hub",
+        "population_by_year": {
+          "1933": 0,
+          "1935": 0,
+          "1937": 0,
+          "1938": 0,
+          "1939": 0,
+          "1940": 0,
+          "1941": 0,
+          "1942": 2000,
+          "1943": 8000,
+          "1944": 0,
+          "1945": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4025,
+          51.2194
+        ]
+      },
+      "properties": {
+        "place_id": "antwerp",
+        "name": "Antwerp",
+        "name_local": "Antwerpen",
+        "country": "Belgium",
+        "place_type": "city",
+        "population_by_year": {
+          "1933": 22000,
+          "1935": 24000,
+          "1937": 28000,
+          "1938": 30000,
+          "1939": 35000,
+          "1940": 30000,
+          "1941": 25000,
+          "1942": 10000,
+          "1943": 2000,
+          "1944": 500,
+          "1945": 5000
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9819,
+          45.815
+        ]
+      },
+      "properties": {
+        "place_id": "zagreb",
+        "name": "Zagreb",
+        "name_local": "Zagreb",
+        "country": "Yugoslavia / Croatia",
+        "place_type": "city",
+        "population_by_year": {
+          "1933": 9000,
+          "1935": 9500,
+          "1937": 10000,
+          "1938": 11000,
+          "1939": 12000,
+          "1940": 12000,
+          "1941": 6000,
+          "1942": 1000,
+          "1943": 200,
+          "1944": 100,
+          "1945": 1500
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4489,
+          44.7866
+        ]
+      },
+      "properties": {
+        "place_id": "belgrade",
+        "name": "Belgrade",
+        "name_local": "Beograd",
+        "country": "Yugoslavia",
+        "place_type": "city",
+        "population_by_year": {
+          "1933": 8000,
+          "1935": 8500,
+          "1937": 9000,
+          "1938": 9500,
+          "1939": 10000,
+          "1940": 10000,
+          "1941": 3000,
+          "1942": 500,
+          "1943": 100,
+          "1944": 50,
+          "1945": 1000
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4964,
+          41.9028
+        ]
+      },
+      "properties": {
+        "place_id": "rome",
+        "name": "Rome",
+        "name_local": "Roma",
+        "country": "Italy",
+        "place_type": "city",
+        "population_by_year": {
+          "1933": 11000,
+          "1935": 11000,
+          "1937": 11000,
+          "1938": 11000,
+          "1939": 11000,
+          "1940": 11000,
+          "1941": 11000,
+          "1942": 11000,
+          "1943": 7000,
+          "1944": 5000,
+          "1945": 8000
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683,
+          55.6761
+        ]
+      },
+      "properties": {
+        "place_id": "copenhagen",
+        "name": "Copenhagen",
+        "name_local": "København",
+        "country": "Denmark",
+        "place_type": "city",
+        "population_by_year": {
+          "1933": 6000,
+          "1935": 6500,
+          "1937": 7000,
+          "1938": 7500,
+          "1939": 8000,
+          "1940": 8000,
+          "1941": 8000,
+          "1942": 8000,
+          "1943": 500,
+          "1944": 400,
+          "1945": 7000
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7522,
+          59.9139
+        ]
+      },
+      "properties": {
+        "place_id": "oslo",
+        "name": "Oslo",
+        "name_local": "Oslo",
+        "country": "Norway",
+        "place_type": "city",
+        "population_by_year": {
+          "1933": 1400,
+          "1935": 1500,
+          "1937": 1600,
+          "1938": 1700,
+          "1939": 1800,
+          "1940": 1800,
+          "1941": 1500,
+          "1942": 500,
+          "1943": 100,
+          "1944": 50,
+          "1945": 800
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.995,
+          52.246
+        ]
+      },
+      "properties": {
+        "place_id": "warsaw_ghetto",
+        "name": "Warsaw Ghetto",
+        "name_local": "Getto warszawskie",
+        "country": "Poland",
+        "place_type": "ghetto",
+        "population_by_year": {
+          "1933": 0,
+          "1935": 0,
+          "1937": 0,
+          "1938": 0,
+          "1939": 0,
+          "1940": 380000,
+          "1941": 450000,
+          "1942": 60000,
+          "1943": 0,
+          "1944": 0,
+          "1945": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.455,
+          51.775
+        ]
+      },
+      "properties": {
+        "place_id": "lodz_ghetto",
+        "name": "Łódź Ghetto (Litzmannstadt)",
+        "name_local": "Getto łódzkie",
+        "country": "Poland",
+        "place_type": "ghetto",
+        "population_by_year": {
+          "1933": 0,
+          "1935": 0,
+          "1937": 0,
+          "1938": 0,
+          "1939": 0,
+          "1940": 160000,
+          "1941": 160000,
+          "1942": 90000,
+          "1943": 80000,
+          "1944": 0,
+          "1945": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.955,
+          50.045
+        ]
+      },
+      "properties": {
+        "place_id": "krakow_ghetto",
+        "name": "Kraków Ghetto",
+        "name_local": "Getto krakowskie",
+        "country": "Poland",
+        "place_type": "ghetto",
+        "population_by_year": {
+          "1933": 0,
+          "1935": 0,
+          "1937": 0,
+          "1938": 0,
+          "1939": 0,
+          "1940": 0,
+          "1941": 18000,
+          "1942": 6000,
+          "1943": 0,
+          "1944": 0,
+          "1945": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.15,
+          50.511
+        ]
+      },
+      "properties": {
+        "place_id": "theresienstadt",
+        "name": "Theresienstadt / Terezín",
+        "name_local": "Terezín",
+        "country": "Czechoslovakia",
+        "place_type": "ghetto",
+        "population_by_year": {
+          "1933": 0,
+          "1935": 0,
+          "1937": 0,
+          "1938": 0,
+          "1939": 0,
+          "1940": 0,
+          "1941": 7000,
+          "1942": 58000,
+          "1943": 40000,
+          "1944": 30000,
+          "1945": 17000
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.06,
+          47.495
+        ]
+      },
+      "properties": {
+        "place_id": "budapest_ghetto",
+        "name": "Budapest Ghetto",
+        "name_local": "Budapesti gettó",
+        "country": "Hungary",
+        "place_type": "ghetto",
+        "population_by_year": {
+          "1933": 0,
+          "1935": 0,
+          "1937": 0,
+          "1938": 0,
+          "1939": 0,
+          "1940": 0,
+          "1941": 0,
+          "1942": 0,
+          "1943": 0,
+          "1944": 70000,
+          "1945": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.89,
+          54.915
+        ]
+      },
+      "properties": {
+        "place_id": "kovno_ghetto",
+        "name": "Kovno Ghetto",
+        "name_local": "Kauno getas",
+        "country": "Lithuania",
+        "place_type": "ghetto",
+        "population_by_year": {
+          "1933": 0,
+          "1935": 0,
+          "1937": 0,
+          "1938": 0,
+          "1939": 0,
+          "1940": 0,
+          "1941": 30000,
+          "1942": 16000,
+          "1943": 8000,
+          "1944": 0,
+          "1945": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.13,
+          56.94
+        ]
+      },
+      "properties": {
+        "place_id": "riga_ghetto",
+        "name": "Riga Ghetto",
+        "name_local": "Rīgas geto",
+        "country": "Latvia",
+        "place_type": "ghetto",
+        "population_by_year": {
+          "1933": 0,
+          "1935": 0,
+          "1937": 0,
+          "1938": 0,
+          "1939": 0,
+          "1940": 0,
+          "1941": 30000,
+          "1942": 5000,
+          "1943": 0,
+          "1944": 0,
+          "1945": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.545,
+          53.905
+        ]
+      },
+      "properties": {
+        "place_id": "minsk_ghetto",
+        "name": "Minsk Ghetto",
+        "name_local": "Мінскае гета",
+        "country": "USSR / Belarus",
+        "place_type": "ghetto",
+        "population_by_year": {
+          "1933": 0,
+          "1935": 0,
+          "1937": 0,
+          "1938": 0,
+          "1939": 0,
+          "1940": 0,
+          "1941": 80000,
+          "1942": 10000,
+          "1943": 0,
+          "1944": 0,
+          "1945": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.445,
+          48.923
+        ]
+      },
+      "properties": {
+        "place_id": "drancy",
+        "name": "Drancy internment camp",
+        "name_local": "Drancy",
+        "country": "France",
+        "place_type": "deportation_hub",
+        "population_by_year": {
+          "1933": 0,
+          "1935": 0,
+          "1937": 0,
+          "1938": 0,
+          "1939": 0,
+          "1940": 0,
+          "1941": 4000,
+          "1942": 5000,
+          "1943": 4000,
+          "1944": 2000,
+          "1945": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.607,
+          52.917
+        ]
+      },
+      "properties": {
+        "place_id": "westerbork",
+        "name": "Westerbork transit camp",
+        "name_local": "Westerbork",
+        "country": "Netherlands",
+        "place_type": "deportation_hub",
+        "population_by_year": {
+          "1933": 0,
+          "1935": 0,
+          "1937": 0,
+          "1938": 0,
+          "1939": 1000,
+          "1940": 1100,
+          "1941": 1500,
+          "1942": 10000,
+          "1943": 10000,
+          "1944": 5000,
+          "1945": 900
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.478,
+          51.028
+        ]
+      },
+      "properties": {
+        "place_id": "malines",
+        "name": "Mechelen / Malines transit camp",
+        "name_local": "Mechelen (Dossin)",
+        "country": "Belgium",
+        "place_type": "deportation_hub",
+        "population_by_year": {
+          "1933": 0,
+          "1935": 0,
+          "1937": 0,
+          "1938": 0,
+          "1939": 0,
+          "1940": 0,
+          "1941": 0,
+          "1942": 2000,
+          "1943": 1500,
+          "1944": 500,
+          "1945": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.988,
+          52.252
+        ]
+      },
+      "properties": {
+        "place_id": "umschlagsplatz_warsaw",
+        "name": "Umschlagplatz Warsaw",
+        "name_local": "Umschlagplatz",
+        "country": "Poland",
+        "place_type": "deportation_hub",
+        "population_by_year": {
+          "1933": 0,
+          "1935": 0,
+          "1937": 0,
+          "1938": 0,
+          "1939": 0,
+          "1940": 0,
+          "1941": 0,
+          "1942": 15000,
+          "1943": 2000,
+          "1944": 0,
+          "1945": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.47,
+          51.8
+        ]
+      },
+      "properties": {
+        "place_id": "kolejowa_lodz",
+        "name": "Łódź Radegast station",
+        "name_local": "Stacja Radegast",
+        "country": "Poland",
+        "place_type": "deportation_hub",
+        "population_by_year": {
+          "1933": 0,
+          "1935": 0,
+          "1937": 0,
+          "1938": 0,
+          "1939": 0,
+          "1940": 0,
+          "1941": 2000,
+          "1942": 5000,
+          "1943": 2000,
+          "1944": 8000,
+          "1945": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1783,
+          50.0359
+        ]
+      },
+      "properties": {
+        "place_id": "auschwitz",
+        "name": "Auschwitz-Birkenau",
+        "name_local": "Oświęcim",
+        "country": "Poland",
+        "place_type": "extermination_site",
+        "population_by_year": {
+          "1933": 0,
+          "1935": 0,
+          "1937": 0,
+          "1938": 0,
+          "1939": 0,
+          "1940": 1000,
+          "1941": 10000,
+          "1942": 40000,
+          "1943": 80000,
+          "1944": 90000,
+          "1945": 7000
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0531,
+          52.6316
+        ]
+      },
+      "properties": {
+        "place_id": "treblinka",
+        "name": "Treblinka",
+        "name_local": "Treblinka",
+        "country": "Poland",
+        "place_type": "extermination_site",
+        "population_by_year": {
+          "1933": 0,
+          "1935": 0,
+          "1937": 0,
+          "1938": 0,
+          "1939": 0,
+          "1940": 0,
+          "1941": 0,
+          "1942": 1000,
+          "1943": 500,
+          "1944": 0,
+          "1945": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4575,
+          50.3717
+        ]
+      },
+      "properties": {
+        "place_id": "belzec",
+        "name": "Bełżec",
+        "name_local": "Bełżec",
+        "country": "Poland",
+        "place_type": "extermination_site",
+        "population_by_year": {
+          "1933": 0,
+          "1935": 0,
+          "1937": 0,
+          "1938": 0,
+          "1939": 0,
+          "1940": 0,
+          "1941": 0,
+          "1942": 500,
+          "1943": 0,
+          "1944": 0,
+          "1945": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.595,
+          51.4467
+        ]
+      },
+      "properties": {
+        "place_id": "sobibor",
+        "name": "Sobibór",
+        "name_local": "Sobibór",
+        "country": "Poland",
+        "place_type": "extermination_site",
+        "population_by_year": {
+          "1933": 0,
+          "1935": 0,
+          "1937": 0,
+          "1938": 0,
+          "1939": 0,
+          "1940": 0,
+          "1941": 0,
+          "1942": 600,
+          "1943": 600,
+          "1944": 0,
+          "1945": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.723,
+          52.154
+        ]
+      },
+      "properties": {
+        "place_id": "chelmno",
+        "name": "Chełmno / Kulmhof",
+        "name_local": "Chełmno nad Nerem",
+        "country": "Poland",
+        "place_type": "extermination_site",
+        "population_by_year": {
+          "1933": 0,
+          "1935": 0,
+          "1937": 0,
+          "1938": 0,
+          "1939": 0,
+          "1940": 0,
+          "1941": 100,
+          "1942": 200,
+          "1943": 0,
+          "1944": 100,
+          "1945": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.6,
+          51.222
+        ]
+      },
+      "properties": {
+        "place_id": "majdanek",
+        "name": "Majdanek",
+        "name_local": "Majdanek",
+        "country": "Poland",
+        "place_type": "extermination_site",
+        "population_by_year": {
+          "1933": 0,
+          "1935": 0,
+          "1937": 0,
+          "1938": 0,
+          "1939": 0,
+          "1940": 0,
+          "1941": 5000,
+          "1942": 15000,
+          "1943": 20000,
+          "1944": 0,
+          "1945": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.449,
+          50.471
+        ]
+      },
+      "properties": {
+        "place_id": "babyn_yar",
+        "name": "Babi Yar",
+        "name_local": "Бабин Яр",
+        "country": "USSR / Ukraine",
+        "place_type": "extermination_site",
+        "population_by_year": {
+          "1933": 0,
+          "1935": 0,
+          "1937": 0,
+          "1938": 0,
+          "1939": 0,
+          "1940": 0,
+          "1941": 0,
+          "1942": 0,
+          "1943": 0,
+          "1944": 0,
+          "1945": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.167,
+          54.626
+        ]
+      },
+      "properties": {
+        "place_id": "ponary",
+        "name": "Ponary / Paneriai",
+        "name_local": "Paneriai",
+        "country": "Lithuania",
+        "place_type": "extermination_site",
+        "population_by_year": {
+          "1933": 0,
+          "1935": 0,
+          "1937": 0,
+          "1938": 0,
+          "1939": 0,
+          "1940": 0,
+          "1941": 0,
+          "1942": 0,
+          "1943": 0,
+          "1944": 0,
+          "1945": 0
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.907,
+          52.758
+        ]
+      },
+      "properties": {
+        "place_id": "bergen_belsens",
+        "name": "Bergen-Belsen",
+        "name_local": "Bergen-Belsen",
+        "country": "Germany",
+        "place_type": "deportation_hub",
+        "population_by_year": {
+          "1933": 0,
+          "1935": 0,
+          "1937": 0,
+          "1938": 0,
+          "1939": 0,
+          "1940": 0,
+          "1941": 0,
+          "1942": 0,
+          "1943": 4000,
+          "1944": 15000,
+          "1945": 60000
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4683,
+          48.2699
+        ]
+      },
+      "properties": {
+        "place_id": "dachau",
+        "name": "Dachau",
+        "name_local": "Dachau",
+        "country": "Germany",
+        "place_type": "deportation_hub",
+        "population_by_year": {
+          "1933": 2000,
+          "1935": 2500,
+          "1937": 3000,
+          "1938": 10000,
+          "1939": 4000,
+          "1940": 5000,
+          "1941": 6000,
+          "1942": 8000,
+          "1943": 12000,
+          "1944": 22000,
+          "1945": 30000
+        }
+      }
+    }
+  ]
+}

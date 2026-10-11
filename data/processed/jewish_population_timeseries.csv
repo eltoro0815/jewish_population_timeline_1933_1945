@@ -1,0 +1,584 @@
+place_id,name,name_local,country,latitude,longitude,place_type,year,jewish_population
+warsaw,Warsaw,Warszawa,Poland,52.2297,21.0122,city,1933,352000
+warsaw,Warsaw,Warszawa,Poland,52.2297,21.0122,city,1935,360000
+warsaw,Warsaw,Warszawa,Poland,52.2297,21.0122,city,1937,370000
+warsaw,Warsaw,Warszawa,Poland,52.2297,21.0122,city,1938,375000
+warsaw,Warsaw,Warszawa,Poland,52.2297,21.0122,city,1939,380000
+warsaw,Warsaw,Warszawa,Poland,52.2297,21.0122,city,1940,380000
+warsaw,Warsaw,Warszawa,Poland,52.2297,21.0122,city,1941,450000
+warsaw,Warsaw,Warszawa,Poland,52.2297,21.0122,city,1942,70000
+warsaw,Warsaw,Warszawa,Poland,52.2297,21.0122,city,1943,5000
+warsaw,Warsaw,Warszawa,Poland,52.2297,21.0122,city,1944,0
+warsaw,Warsaw,Warszawa,Poland,52.2297,21.0122,city,1945,0
+lodz,Łódź,Łódź,Poland,51.7592,19.456,city,1933,202000
+lodz,Łódź,Łódź,Poland,51.7592,19.456,city,1935,210000
+lodz,Łódź,Łódź,Poland,51.7592,19.456,city,1937,220000
+lodz,Łódź,Łódź,Poland,51.7592,19.456,city,1938,225000
+lodz,Łódź,Łódź,Poland,51.7592,19.456,city,1939,233000
+lodz,Łódź,Łódź,Poland,51.7592,19.456,city,1940,160000
+lodz,Łódź,Łódź,Poland,51.7592,19.456,city,1941,160000
+lodz,Łódź,Łódź,Poland,51.7592,19.456,city,1942,90000
+lodz,Łódź,Łódź,Poland,51.7592,19.456,city,1943,80000
+lodz,Łódź,Łódź,Poland,51.7592,19.456,city,1944,5000
+lodz,Łódź,Łódź,Poland,51.7592,19.456,city,1945,877
+krakow,Kraków,Kraków,Poland,50.0647,19.945,city,1933,56000
+krakow,Kraków,Kraków,Poland,50.0647,19.945,city,1935,58000
+krakow,Kraków,Kraków,Poland,50.0647,19.945,city,1937,60000
+krakow,Kraków,Kraków,Poland,50.0647,19.945,city,1938,64000
+krakow,Kraków,Kraków,Poland,50.0647,19.945,city,1939,68000
+krakow,Kraków,Kraków,Poland,50.0647,19.945,city,1940,55000
+krakow,Kraków,Kraków,Poland,50.0647,19.945,city,1941,20000
+krakow,Kraków,Kraków,Poland,50.0647,19.945,city,1942,6000
+krakow,Kraków,Kraków,Poland,50.0647,19.945,city,1943,0
+krakow,Kraków,Kraków,Poland,50.0647,19.945,city,1944,0
+krakow,Kraków,Kraków,Poland,50.0647,19.945,city,1945,0
+bialystok,Białystok,Białystok,Poland,53.1325,23.1688,city,1933,39000
+bialystok,Białystok,Białystok,Poland,53.1325,23.1688,city,1935,40000
+bialystok,Białystok,Białystok,Poland,53.1325,23.1688,city,1937,42000
+bialystok,Białystok,Białystok,Poland,53.1325,23.1688,city,1938,43000
+bialystok,Białystok,Białystok,Poland,53.1325,23.1688,city,1939,50000
+bialystok,Białystok,Białystok,Poland,53.1325,23.1688,city,1940,50000
+bialystok,Białystok,Białystok,Poland,53.1325,23.1688,city,1941,50000
+bialystok,Białystok,Białystok,Poland,53.1325,23.1688,city,1942,10000
+bialystok,Białystok,Białystok,Poland,53.1325,23.1688,city,1943,0
+bialystok,Białystok,Białystok,Poland,53.1325,23.1688,city,1944,0
+bialystok,Białystok,Białystok,Poland,53.1325,23.1688,city,1945,0
+lublin,Lublin,Lublin,Poland,51.2465,22.5684,city,1933,39000
+lublin,Lublin,Lublin,Poland,51.2465,22.5684,city,1935,40000
+lublin,Lublin,Lublin,Poland,51.2465,22.5684,city,1937,41000
+lublin,Lublin,Lublin,Poland,51.2465,22.5684,city,1938,42000
+lublin,Lublin,Lublin,Poland,51.2465,22.5684,city,1939,43000
+lublin,Lublin,Lublin,Poland,51.2465,22.5684,city,1940,40000
+lublin,Lublin,Lublin,Poland,51.2465,22.5684,city,1941,34000
+lublin,Lublin,Lublin,Poland,51.2465,22.5684,city,1942,2000
+lublin,Lublin,Lublin,Poland,51.2465,22.5684,city,1943,0
+lublin,Lublin,Lublin,Poland,51.2465,22.5684,city,1944,0
+lublin,Lublin,Lublin,Poland,51.2465,22.5684,city,1945,0
+lvov,Lwów / Lviv,Lwów,Poland / USSR,49.8397,24.0297,city,1933,100000
+lvov,Lwów / Lviv,Lwów,Poland / USSR,49.8397,24.0297,city,1935,105000
+lvov,Lwów / Lviv,Lwów,Poland / USSR,49.8397,24.0297,city,1937,108000
+lvov,Lwów / Lviv,Lwów,Poland / USSR,49.8397,24.0297,city,1938,110000
+lvov,Lwów / Lviv,Lwów,Poland / USSR,49.8397,24.0297,city,1939,110000
+lvov,Lwów / Lviv,Lwów,Poland / USSR,49.8397,24.0297,city,1940,150000
+lvov,Lwów / Lviv,Lwów,Poland / USSR,49.8397,24.0297,city,1941,100000
+lvov,Lwów / Lviv,Lwów,Poland / USSR,49.8397,24.0297,city,1942,20000
+lvov,Lwów / Lviv,Lwów,Poland / USSR,49.8397,24.0297,city,1943,0
+lvov,Lwów / Lviv,Lwów,Poland / USSR,49.8397,24.0297,city,1944,0
+lvov,Lwów / Lviv,Lwów,Poland / USSR,49.8397,24.0297,city,1945,0
+vilnius,Vilnius,Wilno,Lithuania / Poland,54.6872,25.2797,city,1933,55000
+vilnius,Vilnius,Wilno,Lithuania / Poland,54.6872,25.2797,city,1935,57000
+vilnius,Vilnius,Wilno,Lithuania / Poland,54.6872,25.2797,city,1937,58000
+vilnius,Vilnius,Wilno,Lithuania / Poland,54.6872,25.2797,city,1938,59000
+vilnius,Vilnius,Wilno,Lithuania / Poland,54.6872,25.2797,city,1939,60000
+vilnius,Vilnius,Wilno,Lithuania / Poland,54.6872,25.2797,city,1940,60000
+vilnius,Vilnius,Wilno,Lithuania / Poland,54.6872,25.2797,city,1941,40000
+vilnius,Vilnius,Wilno,Lithuania / Poland,54.6872,25.2797,city,1942,15000
+vilnius,Vilnius,Wilno,Lithuania / Poland,54.6872,25.2797,city,1943,2000
+vilnius,Vilnius,Wilno,Lithuania / Poland,54.6872,25.2797,city,1944,0
+vilnius,Vilnius,Wilno,Lithuania / Poland,54.6872,25.2797,city,1945,0
+kaunas,Kaunas,Kaunas,Lithuania,54.8985,23.9036,city,1933,25000
+kaunas,Kaunas,Kaunas,Lithuania,54.8985,23.9036,city,1935,27000
+kaunas,Kaunas,Kaunas,Lithuania,54.8985,23.9036,city,1937,30000
+kaunas,Kaunas,Kaunas,Lithuania,54.8985,23.9036,city,1938,35000
+kaunas,Kaunas,Kaunas,Lithuania,54.8985,23.9036,city,1939,40000
+kaunas,Kaunas,Kaunas,Lithuania,54.8985,23.9036,city,1940,40000
+kaunas,Kaunas,Kaunas,Lithuania,54.8985,23.9036,city,1941,30000
+kaunas,Kaunas,Kaunas,Lithuania,54.8985,23.9036,city,1942,16000
+kaunas,Kaunas,Kaunas,Lithuania,54.8985,23.9036,city,1943,8000
+kaunas,Kaunas,Kaunas,Lithuania,54.8985,23.9036,city,1944,0
+kaunas,Kaunas,Kaunas,Lithuania,54.8985,23.9036,city,1945,0
+berlin,Berlin,Berlin,Germany,52.52,13.405,city,1933,160000
+berlin,Berlin,Berlin,Germany,52.52,13.405,city,1935,150000
+berlin,Berlin,Berlin,Germany,52.52,13.405,city,1937,140000
+berlin,Berlin,Berlin,Germany,52.52,13.405,city,1938,120000
+berlin,Berlin,Berlin,Germany,52.52,13.405,city,1939,95000
+berlin,Berlin,Berlin,Germany,52.52,13.405,city,1940,72000
+berlin,Berlin,Berlin,Germany,52.52,13.405,city,1941,60000
+berlin,Berlin,Berlin,Germany,52.52,13.405,city,1942,33000
+berlin,Berlin,Berlin,Germany,52.52,13.405,city,1943,5000
+berlin,Berlin,Berlin,Germany,52.52,13.405,city,1944,1500
+berlin,Berlin,Berlin,Germany,52.52,13.405,city,1945,7000
+frankfurt,Frankfurt am Main,Frankfurt,Germany,50.1109,8.6821,city,1933,26000
+frankfurt,Frankfurt am Main,Frankfurt,Germany,50.1109,8.6821,city,1935,24000
+frankfurt,Frankfurt am Main,Frankfurt,Germany,50.1109,8.6821,city,1937,22000
+frankfurt,Frankfurt am Main,Frankfurt,Germany,50.1109,8.6821,city,1938,14000
+frankfurt,Frankfurt am Main,Frankfurt,Germany,50.1109,8.6821,city,1939,10000
+frankfurt,Frankfurt am Main,Frankfurt,Germany,50.1109,8.6821,city,1940,6000
+frankfurt,Frankfurt am Main,Frankfurt,Germany,50.1109,8.6821,city,1941,3000
+frankfurt,Frankfurt am Main,Frankfurt,Germany,50.1109,8.6821,city,1942,500
+frankfurt,Frankfurt am Main,Frankfurt,Germany,50.1109,8.6821,city,1943,100
+frankfurt,Frankfurt am Main,Frankfurt,Germany,50.1109,8.6821,city,1944,50
+frankfurt,Frankfurt am Main,Frankfurt,Germany,50.1109,8.6821,city,1945,200
+munich,Munich,München,Germany,48.1351,11.582,city,1933,9000
+munich,Munich,München,Germany,48.1351,11.582,city,1935,8000
+munich,Munich,München,Germany,48.1351,11.582,city,1937,7000
+munich,Munich,München,Germany,48.1351,11.582,city,1938,5000
+munich,Munich,München,Germany,48.1351,11.582,city,1939,4000
+munich,Munich,München,Germany,48.1351,11.582,city,1940,2500
+munich,Munich,München,Germany,48.1351,11.582,city,1941,1500
+munich,Munich,München,Germany,48.1351,11.582,city,1942,400
+munich,Munich,München,Germany,48.1351,11.582,city,1943,100
+munich,Munich,München,Germany,48.1351,11.582,city,1944,50
+munich,Munich,München,Germany,48.1351,11.582,city,1945,100
+vienna,Vienna,Wien,Austria,48.2082,16.3738,city,1933,176000
+vienna,Vienna,Wien,Austria,48.2082,16.3738,city,1935,175000
+vienna,Vienna,Wien,Austria,48.2082,16.3738,city,1937,170000
+vienna,Vienna,Wien,Austria,48.2082,16.3738,city,1938,170000
+vienna,Vienna,Wien,Austria,48.2082,16.3738,city,1939,66000
+vienna,Vienna,Wien,Austria,48.2082,16.3738,city,1940,50000
+vienna,Vienna,Wien,Austria,48.2082,16.3738,city,1941,45000
+vienna,Vienna,Wien,Austria,48.2082,16.3738,city,1942,7000
+vienna,Vienna,Wien,Austria,48.2082,16.3738,city,1943,1000
+vienna,Vienna,Wien,Austria,48.2082,16.3738,city,1944,500
+vienna,Vienna,Wien,Austria,48.2082,16.3738,city,1945,4000
+prague,Prague,Praha,Czechoslovakia,50.0755,14.4378,city,1933,35000
+prague,Prague,Praha,Czechoslovakia,50.0755,14.4378,city,1935,36000
+prague,Prague,Praha,Czechoslovakia,50.0755,14.4378,city,1937,38000
+prague,Prague,Praha,Czechoslovakia,50.0755,14.4378,city,1938,40000
+prague,Prague,Praha,Czechoslovakia,50.0755,14.4378,city,1939,45000
+prague,Prague,Praha,Czechoslovakia,50.0755,14.4378,city,1940,45000
+prague,Prague,Praha,Czechoslovakia,50.0755,14.4378,city,1941,40000
+prague,Prague,Praha,Czechoslovakia,50.0755,14.4378,city,1942,15000
+prague,Prague,Praha,Czechoslovakia,50.0755,14.4378,city,1943,3000
+prague,Prague,Praha,Czechoslovakia,50.0755,14.4378,city,1944,1000
+prague,Prague,Praha,Czechoslovakia,50.0755,14.4378,city,1945,3000
+budapest,Budapest,Budapest,Hungary,47.4979,19.0402,city,1933,200000
+budapest,Budapest,Budapest,Hungary,47.4979,19.0402,city,1935,201000
+budapest,Budapest,Budapest,Hungary,47.4979,19.0402,city,1937,205000
+budapest,Budapest,Budapest,Hungary,47.4979,19.0402,city,1938,208000
+budapest,Budapest,Budapest,Hungary,47.4979,19.0402,city,1939,210000
+budapest,Budapest,Budapest,Hungary,47.4979,19.0402,city,1940,210000
+budapest,Budapest,Budapest,Hungary,47.4979,19.0402,city,1941,200000
+budapest,Budapest,Budapest,Hungary,47.4979,19.0402,city,1942,200000
+budapest,Budapest,Budapest,Hungary,47.4979,19.0402,city,1943,200000
+budapest,Budapest,Budapest,Hungary,47.4979,19.0402,city,1944,70000
+budapest,Budapest,Budapest,Hungary,47.4979,19.0402,city,1945,100000
+kiev,Kiev,Київ,USSR / Ukraine,50.4501,30.5234,city,1933,140000
+kiev,Kiev,Київ,USSR / Ukraine,50.4501,30.5234,city,1935,150000
+kiev,Kiev,Київ,USSR / Ukraine,50.4501,30.5234,city,1937,160000
+kiev,Kiev,Київ,USSR / Ukraine,50.4501,30.5234,city,1938,170000
+kiev,Kiev,Київ,USSR / Ukraine,50.4501,30.5234,city,1939,175000
+kiev,Kiev,Київ,USSR / Ukraine,50.4501,30.5234,city,1940,175000
+kiev,Kiev,Київ,USSR / Ukraine,50.4501,30.5234,city,1941,20000
+kiev,Kiev,Київ,USSR / Ukraine,50.4501,30.5234,city,1942,2000
+kiev,Kiev,Київ,USSR / Ukraine,50.4501,30.5234,city,1943,0
+kiev,Kiev,Київ,USSR / Ukraine,50.4501,30.5234,city,1944,0
+kiev,Kiev,Київ,USSR / Ukraine,50.4501,30.5234,city,1945,5000
+odessa,Odessa,Одеса,USSR / Ukraine,46.4825,30.7233,city,1933,150000
+odessa,Odessa,Одеса,USSR / Ukraine,46.4825,30.7233,city,1935,155000
+odessa,Odessa,Одеса,USSR / Ukraine,46.4825,30.7233,city,1937,165000
+odessa,Odessa,Одеса,USSR / Ukraine,46.4825,30.7233,city,1938,170000
+odessa,Odessa,Одеса,USSR / Ukraine,46.4825,30.7233,city,1939,180000
+odessa,Odessa,Одеса,USSR / Ukraine,46.4825,30.7233,city,1940,180000
+odessa,Odessa,Одеса,USSR / Ukraine,46.4825,30.7233,city,1941,90000
+odessa,Odessa,Одеса,USSR / Ukraine,46.4825,30.7233,city,1942,20000
+odessa,Odessa,Одеса,USSR / Ukraine,46.4825,30.7233,city,1943,5000
+odessa,Odessa,Одеса,USSR / Ukraine,46.4825,30.7233,city,1944,0
+odessa,Odessa,Одеса,USSR / Ukraine,46.4825,30.7233,city,1945,10000
+minsk,Minsk,Мінск,USSR / Belarus,53.9006,27.559,city,1933,55000
+minsk,Minsk,Мінск,USSR / Belarus,53.9006,27.559,city,1935,60000
+minsk,Minsk,Мінск,USSR / Belarus,53.9006,27.559,city,1937,65000
+minsk,Minsk,Мінск,USSR / Belarus,53.9006,27.559,city,1938,68000
+minsk,Minsk,Мінск,USSR / Belarus,53.9006,27.559,city,1939,71000
+minsk,Minsk,Мінск,USSR / Belarus,53.9006,27.559,city,1940,80000
+minsk,Minsk,Мінск,USSR / Belarus,53.9006,27.559,city,1941,80000
+minsk,Minsk,Мінск,USSR / Belarus,53.9006,27.559,city,1942,10000
+minsk,Minsk,Мінск,USSR / Belarus,53.9006,27.559,city,1943,0
+minsk,Minsk,Мінск,USSR / Belarus,53.9006,27.559,city,1944,0
+minsk,Minsk,Мінск,USSR / Belarus,53.9006,27.559,city,1945,2000
+riga,Riga,Rīga,Latvia,56.9496,24.1052,city,1933,42000
+riga,Riga,Rīga,Latvia,56.9496,24.1052,city,1935,43000
+riga,Riga,Rīga,Latvia,56.9496,24.1052,city,1937,43000
+riga,Riga,Rīga,Latvia,56.9496,24.1052,city,1938,43000
+riga,Riga,Rīga,Latvia,56.9496,24.1052,city,1939,43000
+riga,Riga,Rīga,Latvia,56.9496,24.1052,city,1940,43000
+riga,Riga,Rīga,Latvia,56.9496,24.1052,city,1941,30000
+riga,Riga,Rīga,Latvia,56.9496,24.1052,city,1942,5000
+riga,Riga,Rīga,Latvia,56.9496,24.1052,city,1943,1000
+riga,Riga,Rīga,Latvia,56.9496,24.1052,city,1944,0
+riga,Riga,Rīga,Latvia,56.9496,24.1052,city,1945,150
+thessaloniki,Thessaloniki,Θεσσαλονίκη,Greece,40.6401,22.9444,city,1933,50000
+thessaloniki,Thessaloniki,Θεσσαλονίκη,Greece,40.6401,22.9444,city,1935,52000
+thessaloniki,Thessaloniki,Θεσσαλονίκη,Greece,40.6401,22.9444,city,1937,54000
+thessaloniki,Thessaloniki,Θεσσαλονίκη,Greece,40.6401,22.9444,city,1938,55000
+thessaloniki,Thessaloniki,Θεσσαλονίκη,Greece,40.6401,22.9444,city,1939,56000
+thessaloniki,Thessaloniki,Θεσσαλονίκη,Greece,40.6401,22.9444,city,1940,56000
+thessaloniki,Thessaloniki,Θεσσαλονίκη,Greece,40.6401,22.9444,city,1941,50000
+thessaloniki,Thessaloniki,Θεσσαλονίκη,Greece,40.6401,22.9444,city,1942,48000
+thessaloniki,Thessaloniki,Θεσσαλονίκη,Greece,40.6401,22.9444,city,1943,2000
+thessaloniki,Thessaloniki,Θεσσαλονίκη,Greece,40.6401,22.9444,city,1944,500
+thessaloniki,Thessaloniki,Θεσσαλονίκη,Greece,40.6401,22.9444,city,1945,2000
+amsterdam,Amsterdam,Amsterdam,Netherlands,52.3676,4.9041,city,1933,65000
+amsterdam,Amsterdam,Amsterdam,Netherlands,52.3676,4.9041,city,1935,68000
+amsterdam,Amsterdam,Amsterdam,Netherlands,52.3676,4.9041,city,1937,72000
+amsterdam,Amsterdam,Amsterdam,Netherlands,52.3676,4.9041,city,1938,75000
+amsterdam,Amsterdam,Amsterdam,Netherlands,52.3676,4.9041,city,1939,80000
+amsterdam,Amsterdam,Amsterdam,Netherlands,52.3676,4.9041,city,1940,79000
+amsterdam,Amsterdam,Amsterdam,Netherlands,52.3676,4.9041,city,1941,75000
+amsterdam,Amsterdam,Amsterdam,Netherlands,52.3676,4.9041,city,1942,50000
+amsterdam,Amsterdam,Amsterdam,Netherlands,52.3676,4.9041,city,1943,15000
+amsterdam,Amsterdam,Amsterdam,Netherlands,52.3676,4.9041,city,1944,5000
+amsterdam,Amsterdam,Amsterdam,Netherlands,52.3676,4.9041,city,1945,10000
+paris,Paris,Paris,France,48.8566,2.3522,city,1933,150000
+paris,Paris,Paris,France,48.8566,2.3522,city,1935,160000
+paris,Paris,Paris,France,48.8566,2.3522,city,1937,170000
+paris,Paris,Paris,France,48.8566,2.3522,city,1938,180000
+paris,Paris,Paris,France,48.8566,2.3522,city,1939,200000
+paris,Paris,Paris,France,48.8566,2.3522,city,1940,150000
+paris,Paris,Paris,France,48.8566,2.3522,city,1941,120000
+paris,Paris,Paris,France,48.8566,2.3522,city,1942,80000
+paris,Paris,Paris,France,48.8566,2.3522,city,1943,50000
+paris,Paris,Paris,France,48.8566,2.3522,city,1944,30000
+paris,Paris,Paris,France,48.8566,2.3522,city,1945,50000
+brussels,Brussels,Bruxelles,Belgium,50.8503,4.3517,city,1933,30000
+brussels,Brussels,Bruxelles,Belgium,50.8503,4.3517,city,1935,32000
+brussels,Brussels,Bruxelles,Belgium,50.8503,4.3517,city,1937,35000
+brussels,Brussels,Bruxelles,Belgium,50.8503,4.3517,city,1938,40000
+brussels,Brussels,Bruxelles,Belgium,50.8503,4.3517,city,1939,45000
+brussels,Brussels,Bruxelles,Belgium,50.8503,4.3517,city,1940,40000
+brussels,Brussels,Bruxelles,Belgium,50.8503,4.3517,city,1941,35000
+brussels,Brussels,Bruxelles,Belgium,50.8503,4.3517,city,1942,20000
+brussels,Brussels,Bruxelles,Belgium,50.8503,4.3517,city,1943,8000
+brussels,Brussels,Bruxelles,Belgium,50.8503,4.3517,city,1944,3000
+brussels,Brussels,Bruxelles,Belgium,50.8503,4.3517,city,1945,15000
+bucharest,Bucharest,București,Romania,44.4268,26.1025,city,1933,70000
+bucharest,Bucharest,București,Romania,44.4268,26.1025,city,1935,72000
+bucharest,Bucharest,București,Romania,44.4268,26.1025,city,1937,74000
+bucharest,Bucharest,București,Romania,44.4268,26.1025,city,1938,76000
+bucharest,Bucharest,București,Romania,44.4268,26.1025,city,1939,80000
+bucharest,Bucharest,București,Romania,44.4268,26.1025,city,1940,95000
+bucharest,Bucharest,București,Romania,44.4268,26.1025,city,1941,100000
+bucharest,Bucharest,București,Romania,44.4268,26.1025,city,1942,100000
+bucharest,Bucharest,București,Romania,44.4268,26.1025,city,1943,100000
+bucharest,Bucharest,București,Romania,44.4268,26.1025,city,1944,100000
+bucharest,Bucharest,București,Romania,44.4268,26.1025,city,1945,120000
+salonika_port_note,Salonika Baron Hirsch camp area,Θεσσαλονίκη (Baron Hirsch),Greece,40.645,22.92,deportation_hub,1933,0
+salonika_port_note,Salonika Baron Hirsch camp area,Θεσσαλονίκη (Baron Hirsch),Greece,40.645,22.92,deportation_hub,1935,0
+salonika_port_note,Salonika Baron Hirsch camp area,Θεσσαλονίκη (Baron Hirsch),Greece,40.645,22.92,deportation_hub,1937,0
+salonika_port_note,Salonika Baron Hirsch camp area,Θεσσαλονίκη (Baron Hirsch),Greece,40.645,22.92,deportation_hub,1938,0
+salonika_port_note,Salonika Baron Hirsch camp area,Θεσσαλονίκη (Baron Hirsch),Greece,40.645,22.92,deportation_hub,1939,0
+salonika_port_note,Salonika Baron Hirsch camp area,Θεσσαλονίκη (Baron Hirsch),Greece,40.645,22.92,deportation_hub,1940,0
+salonika_port_note,Salonika Baron Hirsch camp area,Θεσσαλονίκη (Baron Hirsch),Greece,40.645,22.92,deportation_hub,1941,0
+salonika_port_note,Salonika Baron Hirsch camp area,Θεσσαλονίκη (Baron Hirsch),Greece,40.645,22.92,deportation_hub,1942,2000
+salonika_port_note,Salonika Baron Hirsch camp area,Θεσσαλονίκη (Baron Hirsch),Greece,40.645,22.92,deportation_hub,1943,8000
+salonika_port_note,Salonika Baron Hirsch camp area,Θεσσαλονίκη (Baron Hirsch),Greece,40.645,22.92,deportation_hub,1944,0
+salonika_port_note,Salonika Baron Hirsch camp area,Θεσσαλονίκη (Baron Hirsch),Greece,40.645,22.92,deportation_hub,1945,0
+antwerp,Antwerp,Antwerpen,Belgium,51.2194,4.4025,city,1933,22000
+antwerp,Antwerp,Antwerpen,Belgium,51.2194,4.4025,city,1935,24000
+antwerp,Antwerp,Antwerpen,Belgium,51.2194,4.4025,city,1937,28000
+antwerp,Antwerp,Antwerpen,Belgium,51.2194,4.4025,city,1938,30000
+antwerp,Antwerp,Antwerpen,Belgium,51.2194,4.4025,city,1939,35000
+antwerp,Antwerp,Antwerpen,Belgium,51.2194,4.4025,city,1940,30000
+antwerp,Antwerp,Antwerpen,Belgium,51.2194,4.4025,city,1941,25000
+antwerp,Antwerp,Antwerpen,Belgium,51.2194,4.4025,city,1942,10000
+antwerp,Antwerp,Antwerpen,Belgium,51.2194,4.4025,city,1943,2000
+antwerp,Antwerp,Antwerpen,Belgium,51.2194,4.4025,city,1944,500
+antwerp,Antwerp,Antwerpen,Belgium,51.2194,4.4025,city,1945,5000
+zagreb,Zagreb,Zagreb,Yugoslavia / Croatia,45.815,15.9819,city,1933,9000
+zagreb,Zagreb,Zagreb,Yugoslavia / Croatia,45.815,15.9819,city,1935,9500
+zagreb,Zagreb,Zagreb,Yugoslavia / Croatia,45.815,15.9819,city,1937,10000
+zagreb,Zagreb,Zagreb,Yugoslavia / Croatia,45.815,15.9819,city,1938,11000
+zagreb,Zagreb,Zagreb,Yugoslavia / Croatia,45.815,15.9819,city,1939,12000
+zagreb,Zagreb,Zagreb,Yugoslavia / Croatia,45.815,15.9819,city,1940,12000
+zagreb,Zagreb,Zagreb,Yugoslavia / Croatia,45.815,15.9819,city,1941,6000
+zagreb,Zagreb,Zagreb,Yugoslavia / Croatia,45.815,15.9819,city,1942,1000
+zagreb,Zagreb,Zagreb,Yugoslavia / Croatia,45.815,15.9819,city,1943,200
+zagreb,Zagreb,Zagreb,Yugoslavia / Croatia,45.815,15.9819,city,1944,100
+zagreb,Zagreb,Zagreb,Yugoslavia / Croatia,45.815,15.9819,city,1945,1500
+belgrade,Belgrade,Beograd,Yugoslavia,44.7866,20.4489,city,1933,8000
+belgrade,Belgrade,Beograd,Yugoslavia,44.7866,20.4489,city,1935,8500
+belgrade,Belgrade,Beograd,Yugoslavia,44.7866,20.4489,city,1937,9000
+belgrade,Belgrade,Beograd,Yugoslavia,44.7866,20.4489,city,1938,9500
+belgrade,Belgrade,Beograd,Yugoslavia,44.7866,20.4489,city,1939,10000
+belgrade,Belgrade,Beograd,Yugoslavia,44.7866,20.4489,city,1940,10000
+belgrade,Belgrade,Beograd,Yugoslavia,44.7866,20.4489,city,1941,3000
+belgrade,Belgrade,Beograd,Yugoslavia,44.7866,20.4489,city,1942,500
+belgrade,Belgrade,Beograd,Yugoslavia,44.7866,20.4489,city,1943,100
+belgrade,Belgrade,Beograd,Yugoslavia,44.7866,20.4489,city,1944,50
+belgrade,Belgrade,Beograd,Yugoslavia,44.7866,20.4489,city,1945,1000
+rome,Rome,Roma,Italy,41.9028,12.4964,city,1933,11000
+rome,Rome,Roma,Italy,41.9028,12.4964,city,1935,11000
+rome,Rome,Roma,Italy,41.9028,12.4964,city,1937,11000
+rome,Rome,Roma,Italy,41.9028,12.4964,city,1938,11000
+rome,Rome,Roma,Italy,41.9028,12.4964,city,1939,11000
+rome,Rome,Roma,Italy,41.9028,12.4964,city,1940,11000
+rome,Rome,Roma,Italy,41.9028,12.4964,city,1941,11000
+rome,Rome,Roma,Italy,41.9028,12.4964,city,1942,11000
+rome,Rome,Roma,Italy,41.9028,12.4964,city,1943,7000
+rome,Rome,Roma,Italy,41.9028,12.4964,city,1944,5000
+rome,Rome,Roma,Italy,41.9028,12.4964,city,1945,8000
+copenhagen,Copenhagen,København,Denmark,55.6761,12.5683,city,1933,6000
+copenhagen,Copenhagen,København,Denmark,55.6761,12.5683,city,1935,6500
+copenhagen,Copenhagen,København,Denmark,55.6761,12.5683,city,1937,7000
+copenhagen,Copenhagen,København,Denmark,55.6761,12.5683,city,1938,7500
+copenhagen,Copenhagen,København,Denmark,55.6761,12.5683,city,1939,8000
+copenhagen,Copenhagen,København,Denmark,55.6761,12.5683,city,1940,8000
+copenhagen,Copenhagen,København,Denmark,55.6761,12.5683,city,1941,8000
+copenhagen,Copenhagen,København,Denmark,55.6761,12.5683,city,1942,8000
+copenhagen,Copenhagen,København,Denmark,55.6761,12.5683,city,1943,500
+copenhagen,Copenhagen,København,Denmark,55.6761,12.5683,city,1944,400
+copenhagen,Copenhagen,København,Denmark,55.6761,12.5683,city,1945,7000
+oslo,Oslo,Oslo,Norway,59.9139,10.7522,city,1933,1400
+oslo,Oslo,Oslo,Norway,59.9139,10.7522,city,1935,1500
+oslo,Oslo,Oslo,Norway,59.9139,10.7522,city,1937,1600
+oslo,Oslo,Oslo,Norway,59.9139,10.7522,city,1938,1700
+oslo,Oslo,Oslo,Norway,59.9139,10.7522,city,1939,1800
+oslo,Oslo,Oslo,Norway,59.9139,10.7522,city,1940,1800
+oslo,Oslo,Oslo,Norway,59.9139,10.7522,city,1941,1500
+oslo,Oslo,Oslo,Norway,59.9139,10.7522,city,1942,500
+oslo,Oslo,Oslo,Norway,59.9139,10.7522,city,1943,100
+oslo,Oslo,Oslo,Norway,59.9139,10.7522,city,1944,50
+oslo,Oslo,Oslo,Norway,59.9139,10.7522,city,1945,800
+warsaw_ghetto,Warsaw Ghetto,Getto warszawskie,Poland,52.246,20.995,ghetto,1933,0
+warsaw_ghetto,Warsaw Ghetto,Getto warszawskie,Poland,52.246,20.995,ghetto,1935,0
+warsaw_ghetto,Warsaw Ghetto,Getto warszawskie,Poland,52.246,20.995,ghetto,1937,0
+warsaw_ghetto,Warsaw Ghetto,Getto warszawskie,Poland,52.246,20.995,ghetto,1938,0
+warsaw_ghetto,Warsaw Ghetto,Getto warszawskie,Poland,52.246,20.995,ghetto,1939,0
+warsaw_ghetto,Warsaw Ghetto,Getto warszawskie,Poland,52.246,20.995,ghetto,1940,380000
+warsaw_ghetto,Warsaw Ghetto,Getto warszawskie,Poland,52.246,20.995,ghetto,1941,450000
+warsaw_ghetto,Warsaw Ghetto,Getto warszawskie,Poland,52.246,20.995,ghetto,1942,60000
+warsaw_ghetto,Warsaw Ghetto,Getto warszawskie,Poland,52.246,20.995,ghetto,1943,0
+warsaw_ghetto,Warsaw Ghetto,Getto warszawskie,Poland,52.246,20.995,ghetto,1944,0
+warsaw_ghetto,Warsaw Ghetto,Getto warszawskie,Poland,52.246,20.995,ghetto,1945,0
+lodz_ghetto,Łódź Ghetto (Litzmannstadt),Getto łódzkie,Poland,51.775,19.455,ghetto,1933,0
+lodz_ghetto,Łódź Ghetto (Litzmannstadt),Getto łódzkie,Poland,51.775,19.455,ghetto,1935,0
+lodz_ghetto,Łódź Ghetto (Litzmannstadt),Getto łódzkie,Poland,51.775,19.455,ghetto,1937,0
+lodz_ghetto,Łódź Ghetto (Litzmannstadt),Getto łódzkie,Poland,51.775,19.455,ghetto,1938,0
+lodz_ghetto,Łódź Ghetto (Litzmannstadt),Getto łódzkie,Poland,51.775,19.455,ghetto,1939,0
+lodz_ghetto,Łódź Ghetto (Litzmannstadt),Getto łódzkie,Poland,51.775,19.455,ghetto,1940,160000
+lodz_ghetto,Łódź Ghetto (Litzmannstadt),Getto łódzkie,Poland,51.775,19.455,ghetto,1941,160000
+lodz_ghetto,Łódź Ghetto (Litzmannstadt),Getto łódzkie,Poland,51.775,19.455,ghetto,1942,90000
+lodz_ghetto,Łódź Ghetto (Litzmannstadt),Getto łódzkie,Poland,51.775,19.455,ghetto,1943,80000
+lodz_ghetto,Łódź Ghetto (Litzmannstadt),Getto łódzkie,Poland,51.775,19.455,ghetto,1944,0
+lodz_ghetto,Łódź Ghetto (Litzmannstadt),Getto łódzkie,Poland,51.775,19.455,ghetto,1945,0
+krakow_ghetto,Kraków Ghetto,Getto krakowskie,Poland,50.045,19.955,ghetto,1933,0
+krakow_ghetto,Kraków Ghetto,Getto krakowskie,Poland,50.045,19.955,ghetto,1935,0
+krakow_ghetto,Kraków Ghetto,Getto krakowskie,Poland,50.045,19.955,ghetto,1937,0
+krakow_ghetto,Kraków Ghetto,Getto krakowskie,Poland,50.045,19.955,ghetto,1938,0
+krakow_ghetto,Kraków Ghetto,Getto krakowskie,Poland,50.045,19.955,ghetto,1939,0
+krakow_ghetto,Kraków Ghetto,Getto krakowskie,Poland,50.045,19.955,ghetto,1940,0
+krakow_ghetto,Kraków Ghetto,Getto krakowskie,Poland,50.045,19.955,ghetto,1941,18000
+krakow_ghetto,Kraków Ghetto,Getto krakowskie,Poland,50.045,19.955,ghetto,1942,6000
+krakow_ghetto,Kraków Ghetto,Getto krakowskie,Poland,50.045,19.955,ghetto,1943,0
+krakow_ghetto,Kraków Ghetto,Getto krakowskie,Poland,50.045,19.955,ghetto,1944,0
+krakow_ghetto,Kraków Ghetto,Getto krakowskie,Poland,50.045,19.955,ghetto,1945,0
+theresienstadt,Theresienstadt / Terezín,Terezín,Czechoslovakia,50.511,14.15,ghetto,1933,0
+theresienstadt,Theresienstadt / Terezín,Terezín,Czechoslovakia,50.511,14.15,ghetto,1935,0
+theresienstadt,Theresienstadt / Terezín,Terezín,Czechoslovakia,50.511,14.15,ghetto,1937,0
+theresienstadt,Theresienstadt / Terezín,Terezín,Czechoslovakia,50.511,14.15,ghetto,1938,0
+theresienstadt,Theresienstadt / Terezín,Terezín,Czechoslovakia,50.511,14.15,ghetto,1939,0
+theresienstadt,Theresienstadt / Terezín,Terezín,Czechoslovakia,50.511,14.15,ghetto,1940,0
+theresienstadt,Theresienstadt / Terezín,Terezín,Czechoslovakia,50.511,14.15,ghetto,1941,7000
+theresienstadt,Theresienstadt / Terezín,Terezín,Czechoslovakia,50.511,14.15,ghetto,1942,58000
+theresienstadt,Theresienstadt / Terezín,Terezín,Czechoslovakia,50.511,14.15,ghetto,1943,40000
+theresienstadt,Theresienstadt / Terezín,Terezín,Czechoslovakia,50.511,14.15,ghetto,1944,30000
+theresienstadt,Theresienstadt / Terezín,Terezín,Czechoslovakia,50.511,14.15,ghetto,1945,17000
+budapest_ghetto,Budapest Ghetto,Budapesti gettó,Hungary,47.495,19.06,ghetto,1933,0
+budapest_ghetto,Budapest Ghetto,Budapesti gettó,Hungary,47.495,19.06,ghetto,1935,0
+budapest_ghetto,Budapest Ghetto,Budapesti gettó,Hungary,47.495,19.06,ghetto,1937,0
+budapest_ghetto,Budapest Ghetto,Budapesti gettó,Hungary,47.495,19.06,ghetto,1938,0
+budapest_ghetto,Budapest Ghetto,Budapesti gettó,Hungary,47.495,19.06,ghetto,1939,0
+budapest_ghetto,Budapest Ghetto,Budapesti gettó,Hungary,47.495,19.06,ghetto,1940,0
+budapest_ghetto,Budapest Ghetto,Budapesti gettó,Hungary,47.495,19.06,ghetto,1941,0
+budapest_ghetto,Budapest Ghetto,Budapesti gettó,Hungary,47.495,19.06,ghetto,1942,0
+budapest_ghetto,Budapest Ghetto,Budapesti gettó,Hungary,47.495,19.06,ghetto,1943,0
+budapest_ghetto,Budapest Ghetto,Budapesti gettó,Hungary,47.495,19.06,ghetto,1944,70000
+budapest_ghetto,Budapest Ghetto,Budapesti gettó,Hungary,47.495,19.06,ghetto,1945,0
+kovno_ghetto,Kovno Ghetto,Kauno getas,Lithuania,54.915,23.89,ghetto,1933,0
+kovno_ghetto,Kovno Ghetto,Kauno getas,Lithuania,54.915,23.89,ghetto,1935,0
+kovno_ghetto,Kovno Ghetto,Kauno getas,Lithuania,54.915,23.89,ghetto,1937,0
+kovno_ghetto,Kovno Ghetto,Kauno getas,Lithuania,54.915,23.89,ghetto,1938,0
+kovno_ghetto,Kovno Ghetto,Kauno getas,Lithuania,54.915,23.89,ghetto,1939,0
+kovno_ghetto,Kovno Ghetto,Kauno getas,Lithuania,54.915,23.89,ghetto,1940,0
+kovno_ghetto,Kovno Ghetto,Kauno getas,Lithuania,54.915,23.89,ghetto,1941,30000
+kovno_ghetto,Kovno Ghetto,Kauno getas,Lithuania,54.915,23.89,ghetto,1942,16000
+kovno_ghetto,Kovno Ghetto,Kauno getas,Lithuania,54.915,23.89,ghetto,1943,8000
+kovno_ghetto,Kovno Ghetto,Kauno getas,Lithuania,54.915,23.89,ghetto,1944,0
+kovno_ghetto,Kovno Ghetto,Kauno getas,Lithuania,54.915,23.89,ghetto,1945,0
+riga_ghetto,Riga Ghetto,Rīgas geto,Latvia,56.94,24.13,ghetto,1933,0
+riga_ghetto,Riga Ghetto,Rīgas geto,Latvia,56.94,24.13,ghetto,1935,0
+riga_ghetto,Riga Ghetto,Rīgas geto,Latvia,56.94,24.13,ghetto,1937,0
+riga_ghetto,Riga Ghetto,Rīgas geto,Latvia,56.94,24.13,ghetto,1938,0
+riga_ghetto,Riga Ghetto,Rīgas geto,Latvia,56.94,24.13,ghetto,1939,0
+riga_ghetto,Riga Ghetto,Rīgas geto,Latvia,56.94,24.13,ghetto,1940,0
+riga_ghetto,Riga Ghetto,Rīgas geto,Latvia,56.94,24.13,ghetto,1941,30000
+riga_ghetto,Riga Ghetto,Rīgas geto,Latvia,56.94,24.13,ghetto,1942,5000
+riga_ghetto,Riga Ghetto,Rīgas geto,Latvia,56.94,24.13,ghetto,1943,0
+riga_ghetto,Riga Ghetto,Rīgas geto,Latvia,56.94,24.13,ghetto,1944,0
+riga_ghetto,Riga Ghetto,Rīgas geto,Latvia,56.94,24.13,ghetto,1945,0
+minsk_ghetto,Minsk Ghetto,Мінскае гета,USSR / Belarus,53.905,27.545,ghetto,1933,0
+minsk_ghetto,Minsk Ghetto,Мінскае гета,USSR / Belarus,53.905,27.545,ghetto,1935,0
+minsk_ghetto,Minsk Ghetto,Мінскае гета,USSR / Belarus,53.905,27.545,ghetto,1937,0
+minsk_ghetto,Minsk Ghetto,Мінскае гета,USSR / Belarus,53.905,27.545,ghetto,1938,0
+minsk_ghetto,Minsk Ghetto,Мінскае гета,USSR / Belarus,53.905,27.545,ghetto,1939,0
+minsk_ghetto,Minsk Ghetto,Мінскае гета,USSR / Belarus,53.905,27.545,ghetto,1940,0
+minsk_ghetto,Minsk Ghetto,Мінскае гета,USSR / Belarus,53.905,27.545,ghetto,1941,80000
+minsk_ghetto,Minsk Ghetto,Мінскае гета,USSR / Belarus,53.905,27.545,ghetto,1942,10000
+minsk_ghetto,Minsk Ghetto,Мінскае гета,USSR / Belarus,53.905,27.545,ghetto,1943,0
+minsk_ghetto,Minsk Ghetto,Мінскае гета,USSR / Belarus,53.905,27.545,ghetto,1944,0
+minsk_ghetto,Minsk Ghetto,Мінскае гета,USSR / Belarus,53.905,27.545,ghetto,1945,0
+drancy,Drancy internment camp,Drancy,France,48.923,2.445,deportation_hub,1933,0
+drancy,Drancy internment camp,Drancy,France,48.923,2.445,deportation_hub,1935,0
+drancy,Drancy internment camp,Drancy,France,48.923,2.445,deportation_hub,1937,0
+drancy,Drancy internment camp,Drancy,France,48.923,2.445,deportation_hub,1938,0
+drancy,Drancy internment camp,Drancy,France,48.923,2.445,deportation_hub,1939,0
+drancy,Drancy internment camp,Drancy,France,48.923,2.445,deportation_hub,1940,0
+drancy,Drancy internment camp,Drancy,France,48.923,2.445,deportation_hub,1941,4000
+drancy,Drancy internment camp,Drancy,France,48.923,2.445,deportation_hub,1942,5000
+drancy,Drancy internment camp,Drancy,France,48.923,2.445,deportation_hub,1943,4000
+drancy,Drancy internment camp,Drancy,France,48.923,2.445,deportation_hub,1944,2000
+drancy,Drancy internment camp,Drancy,France,48.923,2.445,deportation_hub,1945,0
+westerbork,Westerbork transit camp,Westerbork,Netherlands,52.917,6.607,deportation_hub,1933,0
+westerbork,Westerbork transit camp,Westerbork,Netherlands,52.917,6.607,deportation_hub,1935,0
+westerbork,Westerbork transit camp,Westerbork,Netherlands,52.917,6.607,deportation_hub,1937,0
+westerbork,Westerbork transit camp,Westerbork,Netherlands,52.917,6.607,deportation_hub,1938,0
+westerbork,Westerbork transit camp,Westerbork,Netherlands,52.917,6.607,deportation_hub,1939,1000
+westerbork,Westerbork transit camp,Westerbork,Netherlands,52.917,6.607,deportation_hub,1940,1100
+westerbork,Westerbork transit camp,Westerbork,Netherlands,52.917,6.607,deportation_hub,1941,1500
+westerbork,Westerbork transit camp,Westerbork,Netherlands,52.917,6.607,deportation_hub,1942,10000
+westerbork,Westerbork transit camp,Westerbork,Netherlands,52.917,6.607,deportation_hub,1943,10000
+westerbork,Westerbork transit camp,Westerbork,Netherlands,52.917,6.607,deportation_hub,1944,5000
+westerbork,Westerbork transit camp,Westerbork,Netherlands,52.917,6.607,deportation_hub,1945,900
+malines,Mechelen / Malines transit camp,Mechelen (Dossin),Belgium,51.028,4.478,deportation_hub,1933,0
+malines,Mechelen / Malines transit camp,Mechelen (Dossin),Belgium,51.028,4.478,deportation_hub,1935,0
+malines,Mechelen / Malines transit camp,Mechelen (Dossin),Belgium,51.028,4.478,deportation_hub,1937,0
+malines,Mechelen / Malines transit camp,Mechelen (Dossin),Belgium,51.028,4.478,deportation_hub,1938,0
+malines,Mechelen / Malines transit camp,Mechelen (Dossin),Belgium,51.028,4.478,deportation_hub,1939,0
+malines,Mechelen / Malines transit camp,Mechelen (Dossin),Belgium,51.028,4.478,deportation_hub,1940,0
+malines,Mechelen / Malines transit camp,Mechelen (Dossin),Belgium,51.028,4.478,deportation_hub,1941,0
+malines,Mechelen / Malines transit camp,Mechelen (Dossin),Belgium,51.028,4.478,deportation_hub,1942,2000
+malines,Mechelen / Malines transit camp,Mechelen (Dossin),Belgium,51.028,4.478,deportation_hub,1943,1500
+malines,Mechelen / Malines transit camp,Mechelen (Dossin),Belgium,51.028,4.478,deportation_hub,1944,500
+malines,Mechelen / Malines transit camp,Mechelen (Dossin),Belgium,51.028,4.478,deportation_hub,1945,0
+umschlagsplatz_warsaw,Umschlagplatz Warsaw,Umschlagplatz,Poland,52.252,20.988,deportation_hub,1933,0
+umschlagsplatz_warsaw,Umschlagplatz Warsaw,Umschlagplatz,Poland,52.252,20.988,deportation_hub,1935,0
+umschlagsplatz_warsaw,Umschlagplatz Warsaw,Umschlagplatz,Poland,52.252,20.988,deportation_hub,1937,0
+umschlagsplatz_warsaw,Umschlagplatz Warsaw,Umschlagplatz,Poland,52.252,20.988,deportation_hub,1938,0
+umschlagsplatz_warsaw,Umschlagplatz Warsaw,Umschlagplatz,Poland,52.252,20.988,deportation_hub,1939,0
+umschlagsplatz_warsaw,Umschlagplatz Warsaw,Umschlagplatz,Poland,52.252,20.988,deportation_hub,1940,0
+umschlagsplatz_warsaw,Umschlagplatz Warsaw,Umschlagplatz,Poland,52.252,20.988,deportation_hub,1941,0
+umschlagsplatz_warsaw,Umschlagplatz Warsaw,Umschlagplatz,Poland,52.252,20.988,deportation_hub,1942,15000
+umschlagsplatz_warsaw,Umschlagplatz Warsaw,Umschlagplatz,Poland,52.252,20.988,deportation_hub,1943,2000
+umschlagsplatz_warsaw,Umschlagplatz Warsaw,Umschlagplatz,Poland,52.252,20.988,deportation_hub,1944,0
+umschlagsplatz_warsaw,Umschlagplatz Warsaw,Umschlagplatz,Poland,52.252,20.988,deportation_hub,1945,0
+kolejowa_lodz,Łódź Radegast station,Stacja Radegast,Poland,51.8,19.47,deportation_hub,1933,0
+kolejowa_lodz,Łódź Radegast station,Stacja Radegast,Poland,51.8,19.47,deportation_hub,1935,0
+kolejowa_lodz,Łódź Radegast station,Stacja Radegast,Poland,51.8,19.47,deportation_hub,1937,0
+kolejowa_lodz,Łódź Radegast station,Stacja Radegast,Poland,51.8,19.47,deportation_hub,1938,0
+kolejowa_lodz,Łódź Radegast station,Stacja Radegast,Poland,51.8,19.47,deportation_hub,1939,0
+kolejowa_lodz,Łódź Radegast station,Stacja Radegast,Poland,51.8,19.47,deportation_hub,1940,0
+kolejowa_lodz,Łódź Radegast station,Stacja Radegast,Poland,51.8,19.47,deportation_hub,1941,2000
+kolejowa_lodz,Łódź Radegast station,Stacja Radegast,Poland,51.8,19.47,deportation_hub,1942,5000
+kolejowa_lodz,Łódź Radegast station,Stacja Radegast,Poland,51.8,19.47,deportation_hub,1943,2000
+kolejowa_lodz,Łódź Radegast station,Stacja Radegast,Poland,51.8,19.47,deportation_hub,1944,8000
+kolejowa_lodz,Łódź Radegast station,Stacja Radegast,Poland,51.8,19.47,deportation_hub,1945,0
+auschwitz,Auschwitz-Birkenau,Oświęcim,Poland,50.0359,19.1783,extermination_site,1933,0
+auschwitz,Auschwitz-Birkenau,Oświęcim,Poland,50.0359,19.1783,extermination_site,1935,0
+auschwitz,Auschwitz-Birkenau,Oświęcim,Poland,50.0359,19.1783,extermination_site,1937,0
+auschwitz,Auschwitz-Birkenau,Oświęcim,Poland,50.0359,19.1783,extermination_site,1938,0
+auschwitz,Auschwitz-Birkenau,Oświęcim,Poland,50.0359,19.1783,extermination_site,1939,0
+auschwitz,Auschwitz-Birkenau,Oświęcim,Poland,50.0359,19.1783,extermination_site,1940,1000
+auschwitz,Auschwitz-Birkenau,Oświęcim,Poland,50.0359,19.1783,extermination_site,1941,10000
+auschwitz,Auschwitz-Birkenau,Oświęcim,Poland,50.0359,19.1783,extermination_site,1942,40000
+auschwitz,Auschwitz-Birkenau,Oświęcim,Poland,50.0359,19.1783,extermination_site,1943,80000
+auschwitz,Auschwitz-Birkenau,Oświęcim,Poland,50.0359,19.1783,extermination_site,1944,90000
+auschwitz,Auschwitz-Birkenau,Oświęcim,Poland,50.0359,19.1783,extermination_site,1945,7000
+treblinka,Treblinka,Treblinka,Poland,52.6316,22.0531,extermination_site,1933,0
+treblinka,Treblinka,Treblinka,Poland,52.6316,22.0531,extermination_site,1935,0
+treblinka,Treblinka,Treblinka,Poland,52.6316,22.0531,extermination_site,1937,0
+treblinka,Treblinka,Treblinka,Poland,52.6316,22.0531,extermination_site,1938,0
+treblinka,Treblinka,Treblinka,Poland,52.6316,22.0531,extermination_site,1939,0
+treblinka,Treblinka,Treblinka,Poland,52.6316,22.0531,extermination_site,1940,0
+treblinka,Treblinka,Treblinka,Poland,52.6316,22.0531,extermination_site,1941,0
+treblinka,Treblinka,Treblinka,Poland,52.6316,22.0531,extermination_site,1942,1000
+treblinka,Treblinka,Treblinka,Poland,52.6316,22.0531,extermination_site,1943,500
+treblinka,Treblinka,Treblinka,Poland,52.6316,22.0531,extermination_site,1944,0
+treblinka,Treblinka,Treblinka,Poland,52.6316,22.0531,extermination_site,1945,0
+belzec,Bełżec,Bełżec,Poland,50.3717,23.4575,extermination_site,1933,0
+belzec,Bełżec,Bełżec,Poland,50.3717,23.4575,extermination_site,1935,0
+belzec,Bełżec,Bełżec,Poland,50.3717,23.4575,extermination_site,1937,0
+belzec,Bełżec,Bełżec,Poland,50.3717,23.4575,extermination_site,1938,0
+belzec,Bełżec,Bełżec,Poland,50.3717,23.4575,extermination_site,1939,0
+belzec,Bełżec,Bełżec,Poland,50.3717,23.4575,extermination_site,1940,0
+belzec,Bełżec,Bełżec,Poland,50.3717,23.4575,extermination_site,1941,0
+belzec,Bełżec,Bełżec,Poland,50.3717,23.4575,extermination_site,1942,500
+belzec,Bełżec,Bełżec,Poland,50.3717,23.4575,extermination_site,1943,0
+belzec,Bełżec,Bełżec,Poland,50.3717,23.4575,extermination_site,1944,0
+belzec,Bełżec,Bełżec,Poland,50.3717,23.4575,extermination_site,1945,0
+sobibor,Sobibór,Sobibór,Poland,51.4467,23.595,extermination_site,1933,0
+sobibor,Sobibór,Sobibór,Poland,51.4467,23.595,extermination_site,1935,0
+sobibor,Sobibór,Sobibór,Poland,51.4467,23.595,extermination_site,1937,0
+sobibor,Sobibór,Sobibór,Poland,51.4467,23.595,extermination_site,1938,0
+sobibor,Sobibór,Sobibór,Poland,51.4467,23.595,extermination_site,1939,0
+sobibor,Sobibór,Sobibór,Poland,51.4467,23.595,extermination_site,1940,0
+sobibor,Sobibór,Sobibór,Poland,51.4467,23.595,extermination_site,1941,0
+sobibor,Sobibór,Sobibór,Poland,51.4467,23.595,extermination_site,1942,600
+sobibor,Sobibór,Sobibór,Poland,51.4467,23.595,extermination_site,1943,600
+sobibor,Sobibór,Sobibór,Poland,51.4467,23.595,extermination_site,1944,0
+sobibor,Sobibór,Sobibór,Poland,51.4467,23.595,extermination_site,1945,0
+chelmno,Chełmno / Kulmhof,Chełmno nad Nerem,Poland,52.154,18.723,extermination_site,1933,0
+chelmno,Chełmno / Kulmhof,Chełmno nad Nerem,Poland,52.154,18.723,extermination_site,1935,0
+chelmno,Chełmno / Kulmhof,Chełmno nad Nerem,Poland,52.154,18.723,extermination_site,1937,0
+chelmno,Chełmno / Kulmhof,Chełmno nad Nerem,Poland,52.154,18.723,extermination_site,1938,0
+chelmno,Chełmno / Kulmhof,Chełmno nad Nerem,Poland,52.154,18.723,extermination_site,1939,0
+chelmno,Chełmno / Kulmhof,Chełmno nad Nerem,Poland,52.154,18.723,extermination_site,1940,0
+chelmno,Chełmno / Kulmhof,Chełmno nad Nerem,Poland,52.154,18.723,extermination_site,1941,100
+chelmno,Chełmno / Kulmhof,Chełmno nad Nerem,Poland,52.154,18.723,extermination_site,1942,200
+chelmno,Chełmno / Kulmhof,Chełmno nad Nerem,Poland,52.154,18.723,extermination_site,1943,0
+chelmno,Chełmno / Kulmhof,Chełmno nad Nerem,Poland,52.154,18.723,extermination_site,1944,100
+chelmno,Chełmno / Kulmhof,Chełmno nad Nerem,Poland,52.154,18.723,extermination_site,1945,0
+majdanek,Majdanek,Majdanek,Poland,51.222,22.6,extermination_site,1933,0
+majdanek,Majdanek,Majdanek,Poland,51.222,22.6,extermination_site,1935,0
+majdanek,Majdanek,Majdanek,Poland,51.222,22.6,extermination_site,1937,0
+majdanek,Majdanek,Majdanek,Poland,51.222,22.6,extermination_site,1938,0
+majdanek,Majdanek,Majdanek,Poland,51.222,22.6,extermination_site,1939,0
+majdanek,Majdanek,Majdanek,Poland,51.222,22.6,extermination_site,1940,0
+majdanek,Majdanek,Majdanek,Poland,51.222,22.6,extermination_site,1941,5000
+majdanek,Majdanek,Majdanek,Poland,51.222,22.6,extermination_site,1942,15000
+majdanek,Majdanek,Majdanek,Poland,51.222,22.6,extermination_site,1943,20000
+majdanek,Majdanek,Majdanek,Poland,51.222,22.6,extermination_site,1944,0
+majdanek,Majdanek,Majdanek,Poland,51.222,22.6,extermination_site,1945,0
+babyn_yar,Babi Yar,Бабин Яр,USSR / Ukraine,50.471,30.449,extermination_site,1933,0
+babyn_yar,Babi Yar,Бабин Яр,USSR / Ukraine,50.471,30.449,extermination_site,1935,0
+babyn_yar,Babi Yar,Бабин Яр,USSR / Ukraine,50.471,30.449,extermination_site,1937,0
+babyn_yar,Babi Yar,Бабин Яр,USSR / Ukraine,50.471,30.449,extermination_site,1938,0
+babyn_yar,Babi Yar,Бабин Яр,USSR / Ukraine,50.471,30.449,extermination_site,1939,0
+babyn_yar,Babi Yar,Бабин Яр,USSR / Ukraine,50.471,30.449,extermination_site,1940,0
+babyn_yar,Babi Yar,Бабин Яр,USSR / Ukraine,50.471,30.449,extermination_site,1941,0
+babyn_yar,Babi Yar,Бабин Яр,USSR / Ukraine,50.471,30.449,extermination_site,1942,0
+babyn_yar,Babi Yar,Бабин Яр,USSR / Ukraine,50.471,30.449,extermination_site,1943,0
+babyn_yar,Babi Yar,Бабин Яр,USSR / Ukraine,50.471,30.449,extermination_site,1944,0
+babyn_yar,Babi Yar,Бабин Яр,USSR / Ukraine,50.471,30.449,extermination_site,1945,0
+ponary,Ponary / Paneriai,Paneriai,Lithuania,54.626,25.167,extermination_site,1933,0
+ponary,Ponary / Paneriai,Paneriai,Lithuania,54.626,25.167,extermination_site,1935,0
+ponary,Ponary / Paneriai,Paneriai,Lithuania,54.626,25.167,extermination_site,1937,0
+ponary,Ponary / Paneriai,Paneriai,Lithuania,54.626,25.167,extermination_site,1938,0
+ponary,Ponary / Paneriai,Paneriai,Lithuania,54.626,25.167,extermination_site,1939,0
+ponary,Ponary / Paneriai,Paneriai,Lithuania,54.626,25.167,extermination_site,1940,0
+ponary,Ponary / Paneriai,Paneriai,Lithuania,54.626,25.167,extermination_site,1941,0
+ponary,Ponary / Paneriai,Paneriai,Lithuania,54.626,25.167,extermination_site,1942,0
+ponary,Ponary / Paneriai,Paneriai,Lithuania,54.626,25.167,extermination_site,1943,0
+ponary,Ponary / Paneriai,Paneriai,Lithuania,54.626,25.167,extermination_site,1944,0
+ponary,Ponary / Paneriai,Paneriai,Lithuania,54.626,25.167,extermination_site,1945,0
+bergen_belsens,Bergen-Belsen,Bergen-Belsen,Germany,52.758,9.907,deportation_hub,1933,0
+bergen_belsens,Bergen-Belsen,Bergen-Belsen,Germany,52.758,9.907,deportation_hub,1935,0
+bergen_belsens,Bergen-Belsen,Bergen-Belsen,Germany,52.758,9.907,deportation_hub,1937,0
+bergen_belsens,Bergen-Belsen,Bergen-Belsen,Germany,52.758,9.907,deportation_hub,1938,0
+bergen_belsens,Bergen-Belsen,Bergen-Belsen,Germany,52.758,9.907,deportation_hub,1939,0
+bergen_belsens,Bergen-Belsen,Bergen-Belsen,Germany,52.758,9.907,deportation_hub,1940,0
+bergen_belsens,Bergen-Belsen,Bergen-Belsen,Germany,52.758,9.907,deportation_hub,1941,0
+bergen_belsens,Bergen-Belsen,Bergen-Belsen,Germany,52.758,9.907,deportation_hub,1942,0
+bergen_belsens,Bergen-Belsen,Bergen-Belsen,Germany,52.758,9.907,deportation_hub,1943,4000
+bergen_belsens,Bergen-Belsen,Bergen-Belsen,Germany,52.758,9.907,deportation_hub,1944,15000
+bergen_belsens,Bergen-Belsen,Bergen-Belsen,Germany,52.758,9.907,deportation_hub,1945,60000
+dachau,Dachau,Dachau,Germany,48.2699,11.4683,deportation_hub,1933,2000
+dachau,Dachau,Dachau,Germany,48.2699,11.4683,deportation_hub,1935,2500
+dachau,Dachau,Dachau,Germany,48.2699,11.4683,deportation_hub,1937,3000
+dachau,Dachau,Dachau,Germany,48.2699,11.4683,deportation_hub,1938,10000
+dachau,Dachau,Dachau,Germany,48.2699,11.4683,deportation_hub,1939,4000
+dachau,Dachau,Dachau,Germany,48.2699,11.4683,deportation_hub,1940,5000
+dachau,Dachau,Dachau,Germany,48.2699,11.4683,deportation_hub,1941,6000
+dachau,Dachau,Dachau,Germany,48.2699,11.4683,deportation_hub,1942,8000
+dachau,Dachau,Dachau,Germany,48.2699,11.4683,deportation_hub,1943,12000
+dachau,Dachau,Dachau,Germany,48.2699,11.4683,deportation_hub,1944,22000
+dachau,Dachau,Dachau,Germany,48.2699,11.4683,deportation_hub,1945,30000
